@@ -319,4 +319,14 @@ const tr = t(lang);
     align-items: center;
     justify-content: center;
   }
+
+  .panel-footer :global(.lang-dropdown) {
+    top: auto;
+    bottom: calc(100% + var(--spacing-xs));
+    transform: translateY(4px);
+  }
+
+  .panel-footer :global(.lang-dropdown.open) {
+    transform: translateY(0);
+  }
 </style>

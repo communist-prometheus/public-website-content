@@ -21,7 +21,7 @@ const getTheme = (page: Page) => page.evaluate(() => document.documentElement.da
 
 const getLocalStorageTheme = (page: Page) => page.evaluate(() => localStorage.getItem('theme'));
 
-const clickThemeToggle = (page: Page) => page.locator('#theme-toggle').first().click();
+const clickThemeToggle = (page: Page) => page.locator('[data-theme-toggle]').first().click();
 
 /* 1. Basic toggle */
 
@@ -109,7 +109,7 @@ test.describe('Theme toggle animation', () => {
 
     const beforeBuf = await page.screenshot();
 
-    const toggleBtn = page.locator('#theme-toggle').first();
+    const toggleBtn = page.locator('[data-theme-toggle]').first();
     const box = await toggleBtn.boundingBox();
     expect(box).toBeTruthy();
     const { x, y, width, height } = box as { x: number; y: number; width: number; height: number };
@@ -194,7 +194,7 @@ test.describe('Theme toggle animation', () => {
       path: 'e2e/screenshots/theme-14-elements-before.png',
     });
 
-    const toggleBtn = page.locator('#theme-toggle').first();
+    const toggleBtn = page.locator('[data-theme-toggle]').first();
     const btnBox = await toggleBtn.boundingBox();
     expect(btnBox).toBeTruthy();
     const { x, y, width, height } = btnBox as {

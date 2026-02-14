@@ -44,10 +44,7 @@ const { lang } = Astro.props;
 </div>
 
 <script>
-  const setupLanguageSwitcher = () => {
-    const switcher = document.querySelector<HTMLElement>('[data-testid="language-switcher"]');
-    if (!switcher) return;
-
+  const initSwitcher = (switcher: HTMLElement) => {
     const trigger = switcher.querySelector<HTMLButtonElement>('.lang-trigger');
     const dropdown = switcher.querySelector<HTMLElement>('.lang-dropdown');
     const currentLabel = switcher.querySelector<HTMLElement>('.lang-current');
@@ -91,7 +88,7 @@ const { lang } = Astro.props;
       }
     });
 
-    dropdown?.querySelectorAll<HTMLAnchorElement>('.lang-option').forEach((option) => {
+    dropdown.querySelectorAll<HTMLAnchorElement>('.lang-option').forEach((option) => {
       option.addEventListener('click', (e: MouseEvent) => {
         e.preventDefault();
         const targetLang = option.dataset['lang'];
@@ -109,14 +106,13 @@ const { lang } = Astro.props;
 
     function updateCurrentLang() {
       const path = globalThis.location.pathname;
-      const match = path.match(/^\/([a-z]{2})/);
-      const activeLang = match?.[1] ?? 'en';
+      const langMatch = path.match(/^\/([a-z]{2})/);
+      const activeLang = langMatch?.[1] ?? 'en';
 
-      if (currentLabel) {
-        currentLabel.textContent = activeLang.toUpperCase();
-      }
+      const label = switcher.querySelector<HTMLElement>('.lang-current');
+      if (label) label.textContent = activeLang.toUpperCase();
 
-      dropdown?.querySelectorAll<HTMLAnchorElement>('.lang-option').forEach((option) => {
+      switcher.querySelectorAll<HTMLAnchorElement>('.lang-option').forEach((option) => {
         const optionLang = option.dataset['lang'];
         option.classList.toggle('active', optionLang === activeLang);
         option.closest('li')?.setAttribute('aria-selected', String(optionLang === activeLang));
@@ -124,8 +120,12 @@ const { lang } = Astro.props;
     }
   };
 
-  setupLanguageSwitcher();
-  document.addEventListener('astro:after-swap', setupLanguageSwitcher);
+  const setupAllSwitchers = () => {
+    document.querySelectorAll<HTMLElement>('[data-testid="language-switcher"]').forEach(initSwitcher);
+  };
+
+  setupAllSwitchers();
+  document.addEventListener('astro:after-swap', setupAllSwitchers);
 </script>
 
 <style>

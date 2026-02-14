@@ -2,7 +2,7 @@
 import CpButton from '@/components/cp/CpButton.astro';
 ---
 
-<CpButton id="theme-toggle" variant="ghost" ariaLabel="Toggle theme" class="theme-btn">
+<CpButton variant="ghost" ariaLabel="Toggle theme" class="theme-btn" data-theme-toggle>
   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor">
     <circle class="sun" cx="12" cy="12" r="5"></circle>
     <line class="sun" x1="12" y1="1" x2="12" y2="3"></line>
@@ -50,7 +50,16 @@ import CpButton from '@/components/cp/CpButton.astro';
     });
   };
 
-  document.getElementById('theme-toggle')?.addEventListener('click', toggleThemeWithAnimation);
+  const bindToggle = () => {
+    document.querySelectorAll<HTMLElement>('[data-theme-toggle]').forEach((btn) => {
+      if (btn.dataset['themeInit'] === 'true') return;
+      btn.dataset['themeInit'] = 'true';
+      btn.addEventListener('click', toggleThemeWithAnimation);
+    });
+  };
+
+  bindToggle();
+  document.addEventListener('astro:after-swap', bindToggle);
 </script>
 
 <style>

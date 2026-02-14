@@ -1,5 +1,5 @@
 ---
-interface Props {
+interface Props extends Record<string, unknown> {
   variant?: 'primary' | 'secondary' | 'ghost';
   size?: 'sm' | 'md' | 'lg';
   disabled?: boolean;
@@ -17,6 +17,7 @@ const {
   id,
   ariaLabel,
   class: className,
+  ...rest
 } = Astro.props;
 
 const classes = [variant, size, className].filter(Boolean).join(' ');
@@ -28,6 +29,7 @@ const classes = [variant, size, className].filter(Boolean).join(' ');
   type={type}
   id={id}
   aria-label={ariaLabel}
+  {...rest}
 >
   <slot />
 </button>

@@ -114,7 +114,7 @@ test.describe('Mobile menu interaction', () => {
   test('theme toggle is accessible in mobile menu', async ({ page }) => {
     await openMobileMenu(page);
 
-    const themeToggle = page.locator('[data-testid="mobile-menu-panel"] #theme-toggle');
+    const themeToggle = page.locator('[data-testid="mobile-menu-panel"] [data-theme-toggle]');
     await expect(themeToggle).toBeVisible();
   });
 
@@ -163,6 +163,66 @@ test.describe('Mobile menu accessibility', () => {
     const panel = page.locator('[data-testid="mobile-menu-panel"]');
     await expect(panel).toHaveAttribute('role', 'dialog');
     await expect(panel).toHaveAttribute('aria-modal', 'true');
+  });
+});
+
+test.describe('Mobile menu controls', () => {
+  test.beforeEach(async ({ page }) => {
+    await page.goto(BASE);
+    await page.waitForLoadState('networkidle');
+  });
+
+  test('theme toggle changes theme in mobile menu', async ({ page }) => {
+    const initialTheme = await page.evaluate(() => document.documentElement.dataset['theme']);
+
+    await openMobileMenu(page);
+
+    const themeBtn = page.locator('[data-testid="mobile-menu-panel"] [data-theme-toggle]');
+    await expect(themeBtn).toBeVisible();
+    await themeBtn.click();
+    await page.waitForTimeout(500);
+
+    const newTheme = await page.evaluate(() => document.documentElement.dataset['theme']);
+    expect(newTheme).not.toBe(initialTheme);
+  });
+
+  test('language switcher is visible in mobile menu', async ({ page }) => {
+    await openMobileMenu(page);
+
+    const switcher = page.locator(
+      '[data-testid="mobile-menu-panel"] [data-testid="language-switcher"]',
+    );
+    await expect(switcher).toBeVisible();
+  });
+
+  test('language switcher opens dropdown in mobile menu', async ({ page }) => {
+    await openMobileMenu(page);
+
+    const switcher = page.locator(
+      '[data-testid="mobile-menu-panel"] [data-testid="language-switcher"]',
+    );
+    const trigger = switcher.locator('.lang-trigger');
+    await trigger.click();
+
+    const dropdown = switcher.locator('[data-testid="language-dropdown"]');
+    await expect(dropdown).toBeVisible();
+  });
+
+  test('language switcher navigates to another language from mobile menu', async ({ page }) => {
+    await openMobileMenu(page);
+
+    const switcher = page.locator(
+      '[data-testid="mobile-menu-panel"] [data-testid="language-switcher"]',
+    );
+    const trigger = switcher.locator('.lang-trigger');
+    await trigger.click();
+
+    const ruOption = switcher.locator('[data-testid="lang-option-ru"]');
+    await expect(ruOption).toBeVisible();
+    await ruOption.click();
+
+    await page.waitForURL('**/ru');
+    await expect(page).toHaveURL(/\/ru\/?$/);
   });
 });
 

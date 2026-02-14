@@ -61,7 +61,7 @@ assert.ok(blogHtml.includes('elevated'), 'Blog cards must have elevated class');
 console.log('   ✓ Card classes found\n');
 
 console.log('6. Theme toggle button present');
-assert.ok(enHtml.includes('id="theme-toggle"'), 'Theme toggle button must exist');
+assert.ok(enHtml.includes('data-theme-toggle'), 'Theme toggle button must exist');
 console.log('   ✓ Theme toggle found\n');
 
 console.log('7. Service Worker present and configured');
