@@ -1,3 +1,5 @@
+import { readdirSync, statSync } from 'node:fs';
+import { join, relative } from 'node:path';
 import { test } from '@playwright/test';
 import { playAudit } from 'playwright-lighthouse';
 
@@ -54,15 +56,38 @@ const DESKTOP_CONFIG = {
   },
 };
 
-const PAGES = [
-  { name: 'Home', path: '/en' },
-  { name: 'Blog', path: '/en/blog' },
-  { name: 'Manifest', path: '/en/manifest' },
-];
+const discoverPages = (
+  distDir: string,
+  lang: string,
+): ReadonlyArray<{ readonly name: string; readonly path: string }> => {
+  const langDir = join(distDir, lang);
+  const pages: Array<{ name: string; path: string }> = [];
+
+  const walk = (dir: string): void => {
+    for (const entry of readdirSync(dir)) {
+      const fullPath = join(dir, entry);
+      if (statSync(fullPath).isDirectory()) {
+        walk(fullPath);
+      } else if (entry === 'index.html') {
+        const routePath = `/${relative(distDir, dir).replaceAll('\\', '/')}`;
+        const name = routePath === `/${lang}` ? 'Home' : routePath.replace(`/${lang}/`, '');
+        pages.push({ name, path: routePath });
+      }
+    }
+  };
+
+  walk(langDir);
+  return pages.sort((a, b) => a.path.localeCompare(b.path));
+};
+
+const DIST_DIR = join(import.meta.dirname, '..', 'dist');
+const PAGES = discoverPages(DIST_DIR, 'en');
+
+const slugify = (name: string): string => name.toLowerCase().replaceAll(/[^a-z0-9]+/g, '-');
 
 test.describe('Lighthouse mobile audit', () => {
   for (const { name, path } of PAGES) {
-    test(`${name} page meets mobile thresholds`, async ({ page }) => {
+    test(`${name} — mobile (${path})`, async ({ page }) => {
       await page.goto(path);
       await page.waitForLoadState('networkidle');
 
@@ -73,7 +98,7 @@ test.describe('Lighthouse mobile audit', () => {
         config: MOBILE_CONFIG,
         reports: {
           formats: { html: true },
-          name: `lighthouse-mobile-${name.toLowerCase()}`,
+          name: `lighthouse-mobile-${slugify(name)}`,
           directory: 'e2e/lighthouse-reports',
         },
       });
@@ -83,7 +108,7 @@ test.describe('Lighthouse mobile audit', () => {
 
 test.describe('Lighthouse desktop audit', () => {
   for (const { name, path } of PAGES) {
-    test(`${name} page meets desktop thresholds`, async ({ page }) => {
+    test(`${name} — desktop (${path})`, async ({ page }) => {
       await page.goto(path);
       await page.waitForLoadState('networkidle');
 
@@ -94,7 +119,7 @@ test.describe('Lighthouse desktop audit', () => {
         config: DESKTOP_CONFIG,
         reports: {
           formats: { html: true },
-          name: `lighthouse-desktop-${name.toLowerCase()}`,
+          name: `lighthouse-desktop-${slugify(name)}`,
           directory: 'e2e/lighthouse-reports',
         },
       });
