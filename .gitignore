@@ -37,3 +37,5 @@ e2e/screenshots/
 e2e/lighthouse-reports/
 test-results/
 playwright-report/
+/.setting/mcp-mysql.log
+/.setting/mcp-mysql-cli.log
