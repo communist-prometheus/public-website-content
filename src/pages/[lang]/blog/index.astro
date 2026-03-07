@@ -19,10 +19,11 @@ const categories = getUniqueCategories(posts);
 
 const tr = t(lang);
 const pageTitle = tr.blog('pageTitle');
+const pageDescription = tr.blog('pageDescription');
 const heading = tr.blog('heading');
 ---
 
-<BaseLayout title={pageTitle} lang={lang}>
+<BaseLayout title={pageTitle} description={pageDescription} lang={lang}>
   <div class="section">
     <div class="container">
       <h1>{heading}</h1>
@@ -38,6 +39,7 @@ const heading = tr.blog('heading');
                 slug={getArticleSlug(post)}
                 image={post.data.image}
                 lang={lang}
+                headingLevel={2}
               />
             </div>
           ))

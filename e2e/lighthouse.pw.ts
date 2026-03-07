@@ -4,10 +4,10 @@ import { test } from '@playwright/test';
 import { playAudit } from 'playwright-lighthouse';
 
 const LIGHTHOUSE_THRESHOLDS = {
-  performance: 80,
-  accessibility: 90,
-  'best-practices': 90,
-  seo: 90,
+  performance: 100,
+  accessibility: 100,
+  'best-practices': 100,
+  seo: 100,
 };
 
 const MOBILE_CONFIG = {

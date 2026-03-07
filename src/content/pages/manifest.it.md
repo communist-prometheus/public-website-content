@@ -1,5 +1,6 @@
 ---
 title: Il Nostro Manifesto
+description: La nostra missione, i principi fondamentali e l'impegno per la democratizzazione della conoscenza e la collaborazione open source.
 lang: it
 ---
 

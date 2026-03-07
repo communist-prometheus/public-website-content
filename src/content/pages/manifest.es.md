@@ -1,5 +1,6 @@
 ---
 title: Nuestro Manifiesto
+description: Nuestra misión, principios fundamentales y compromiso con la democratización del conocimiento y la colaboración de código abierto.
 lang: es
 ---
 

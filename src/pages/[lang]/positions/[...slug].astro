@@ -18,7 +18,7 @@ const tr = t(lang);
 const backLabel = tr.positions('backToList');
 ---
 
-<BaseLayout title={`${entry.data.title} - Prometheus`} lang={lang}>
+<BaseLayout title={`${entry.data.title} - Prometheus`} description={entry.data.description} lang={lang}>
   <div class="section">
     <div class="container">
       <a href={`/${lang}/positions`} class="back-link">{backLabel}</a>

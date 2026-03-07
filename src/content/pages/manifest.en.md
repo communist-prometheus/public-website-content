@@ -1,5 +1,6 @@
 ---
 title: Our Manifest
+description: Our mission, core principles, and commitment to democratizing knowledge and open-source collaboration.
 lang: en
 ---
 

@@ -1,10 +1,8 @@
 import { type CollectionEntry, getCollection } from 'astro:content';
 import type { Language } from '@/config/i18n';
 
-export const getArticleSlug = (entry: CollectionEntry<'blog'>): string => {
-  const parts = entry.id.split('/');
-  return parts[0];
-};
+export const getArticleSlug = (entry: CollectionEntry<'blog'>): string =>
+  entry.id.split('/').at(0) ?? entry.id;
 
 export const getBlogPosts = async (lang: Language): Promise<CollectionEntry<'blog'>[]> => {
   const posts = await getCollection('blog', ({ data }) => data.lang === lang);

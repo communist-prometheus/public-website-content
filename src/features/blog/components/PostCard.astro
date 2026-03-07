@@ -13,9 +13,10 @@ interface Props {
   slug: string;
   image?: ImageMetadata | undefined;
   lang: Language;
+  headingLevel?: 2 | 3;
 }
 
-const { title, description, category, slug, image, lang } = Astro.props;
+const { title, description, category, slug, image, lang, headingLevel = 3 } = Astro.props;
 
 const readMore = t(lang).blog('readMore');
 ---
@@ -24,7 +25,7 @@ const readMore = t(lang).blog('readMore');
   {image && <div class="post-image"><BlogPicture image={image} alt={title} preset="thumbnail" /></div>}
   <div class="post-content">
     <span class="category">{category}</span>
-    <h3>{title}</h3>
+    {headingLevel === 2 ? <h2>{title}</h2> : <h3>{title}</h3>}
     <p class="text-secondary">{description}</p>
     <a href={`/${lang}/blog/${slug}`}>
       <CpButton variant="ghost">{readMore} →</CpButton>
@@ -67,7 +68,7 @@ const readMore = t(lang).blog('readMore');
     display: inline-block;
     padding: 0.25rem 0.75rem;
     background: var(--color-accent);
-    color: white;
+    color: var(--color-on-accent);
     font-size: 0.75rem;
     font-weight: 500;
     border-radius: var(--radius-sm);
@@ -76,7 +77,7 @@ const readMore = t(lang).blog('readMore');
     letter-spacing: 0.05em;
   }
 
-  h3 {
+  h2, h3 {
     font-size: 1.25rem;
     line-height: 1.4;
   }

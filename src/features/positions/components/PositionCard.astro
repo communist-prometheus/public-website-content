@@ -8,14 +8,15 @@ interface Props {
   readonly description: string;
   readonly slug: string;
   readonly lang: Language;
+  readonly headingLevel?: 2 | 3;
 }
 
-const { title, description, slug, lang } = Astro.props;
+const { title, description, slug, lang, headingLevel = 3 } = Astro.props;
 const readMore = t(lang).positions('readMore');
 ---
 
 <article class="position-card" data-testid="position-card">
-  <h3>{title}</h3>
+  {headingLevel === 2 ? <h2>{title}</h2> : <h3>{title}</h3>}
   <p>{description}</p>
   <a href={`/${lang}/positions/${slug}`}>
     <CpButton variant="ghost">{readMore} →</CpButton>
@@ -35,7 +36,7 @@ const readMore = t(lang).positions('readMore');
     box-shadow: var(--shadow-md);
   }
 
-  h3 {
+  h2, h3 {
     font-size: 1.125rem;
     font-weight: 600;
     margin-bottom: var(--spacing-xs);

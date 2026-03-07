@@ -28,6 +28,12 @@ const blog = defineSection({
     it: 'Blog - Prometheus',
     es: 'Blog - Prometheus',
   },
+  pageDescription: {
+    en: 'Articles, tutorials, and insights about modern web development, open source, and technology.',
+    ru: 'Статьи, руководства и материалы о современной веб-разработке, открытом коде и технологиях.',
+    it: 'Articoli, tutorial e approfondimenti sullo sviluppo web moderno, open source e tecnologia.',
+    es: 'Artículos, tutoriales y conocimientos sobre desarrollo web moderno, código abierto y tecnología.',
+  },
   heading: { en: 'Blog', ru: 'Блог', it: 'Blog', es: 'Blog' },
   allCategory: { en: 'All', ru: 'Все', it: 'Tutti', es: 'Todos' },
   readMore: { en: 'Read more', ru: 'Читать далее', it: 'Leggi di più', es: 'Leer más' },
@@ -72,6 +78,12 @@ const positions = defineSection({
     ru: 'Позиции - Prometheus',
     it: 'Posizioni - Prometheus',
     es: 'Posiciones - Prometheus',
+  },
+  pageDescription: {
+    en: 'Explore open positions and opportunities to join the Prometheus team.',
+    ru: 'Откройте для себя вакансии и возможности присоединиться к команде Prometheus.',
+    it: 'Esplora le posizioni aperte e le opportunità per unirti al team Prometheus.',
+    es: 'Explora las posiciones abiertas y oportunidades para unirte al equipo de Prometheus.',
   },
   heading: { en: 'Positions', ru: 'Позиции', it: 'Posizioni', es: 'Posiciones' },
   viewAll: {

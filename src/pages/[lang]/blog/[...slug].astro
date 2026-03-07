@@ -18,7 +18,7 @@ const { Content } = await post.render();
 const { lang } = Astro.params;
 ---
 
-<BaseLayout title={`${post.data.title} - Prometheus`} lang={lang}>
+<BaseLayout title={`${post.data.title} - Prometheus`} description={post.data.description} lang={lang}>
   <article class="section">
     <div class="container">
       <div class="post-header">
@@ -54,7 +54,7 @@ const { lang } = Astro.params;
     display: inline-block;
     padding: 0.25rem 0.75rem;
     background: var(--color-accent);
-    color: white;
+    color: var(--color-on-accent);
     font-size: 0.75rem;
     font-weight: 500;
     border-radius: var(--radius-sm);

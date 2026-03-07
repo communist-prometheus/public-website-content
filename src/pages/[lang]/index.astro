@@ -20,7 +20,7 @@ const heroTitle = tr.home('heroTitle');
 const heroDescription = tr.home('heroDescription');
 ---
 
-<BaseLayout title={title} lang={lang}>
+<BaseLayout title={title} description={heroDescription} lang={lang}>
   <Hero title={heroTitle} description={heroDescription} />
   <PositionsWidget lang={lang} />
   <NewsSection posts={latestPosts} lang={lang} />

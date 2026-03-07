@@ -17,7 +17,7 @@ if (!page) {
 const { Content } = await page.render();
 ---
 
-<BaseLayout title={`${page.data.title} - Prometheus`} lang={lang}>
+<BaseLayout title={`${page.data.title} - Prometheus`} description={page.data.description} lang={lang}>
   <article class="section">
     <div class="container">
       <div class="manifest-header">
