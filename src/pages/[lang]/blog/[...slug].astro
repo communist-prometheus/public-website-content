@@ -1,11 +1,13 @@
 ---
 import { getCollection } from 'astro:content';
+import BlogPicture from '@/features/blog/components/BlogPicture.astro';
+import { getArticleSlug } from '@/features/blog/helpers/getBlogPosts';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 
 export const getStaticPaths = async () => {
   const posts = await getCollection('blog');
   return posts.map((post) => ({
-    params: { lang: post.data.lang, slug: post.slug },
+    params: { lang: post.data.lang, slug: getArticleSlug(post) },
     props: { post },
   }));
 };
@@ -32,7 +34,7 @@ const { lang } = Astro.params;
           }
         </p>
       </div>
-      {post.data.image && <img src={post.data.image.src} alt={post.data.title} class="featured-image" />}
+      {post.data.image && <div class="featured-image"><BlogPicture image={post.data.image} alt={post.data.title} preset="featured" loading="eager" /></div>}
       <div class="prose">
         <Content />
       </div>
@@ -76,9 +78,13 @@ const { lang } = Astro.params;
   .featured-image {
     width: 100%;
     max-width: 1000px;
-    height: auto;
     margin-inline: auto;
     margin-bottom: var(--spacing-2xl);
+  }
+
+  .featured-image :global(img) {
+    width: 100%;
+    height: auto;
     border-radius: var(--radius-lg);
   }
 
@@ -147,8 +153,37 @@ const { lang } = Astro.params;
   }
 
   .prose :global(img) {
+    width: 100%;
+    height: auto;
     margin-block: var(--spacing-lg);
     border-radius: var(--radius-md);
+  }
+
+  .prose :global(picture) {
+    display: block;
+  }
+
+  .prose :global(video) {
+    width: 100%;
+    margin-block: var(--spacing-lg);
+    border-radius: var(--radius-md);
+    background: var(--color-surface);
+  }
+
+  .prose :global(audio) {
+    width: 100%;
+    margin-block: var(--spacing-lg);
+  }
+
+  .prose :global(figure) {
+    margin: var(--spacing-lg) 0;
+  }
+
+  .prose :global(figcaption) {
+    text-align: center;
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
+    margin-top: var(--spacing-xs);
   }
 
   .prose :global(a) {

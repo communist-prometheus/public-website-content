@@ -4,6 +4,7 @@ import CpButton from '@/components/cp/CpButton.astro';
 import type { Language } from '@/config/i18n';
 import { t } from '@/config/translations';
 import PostCard from '@/features/blog/components/PostCard.astro';
+import { getArticleSlug } from '@/features/blog/helpers/getBlogPosts';
 
 interface Props {
   posts: CollectionEntry<'blog'>[];
@@ -32,7 +33,7 @@ const viewAll = tr.home('viewAllPosts');
             title={post.data.title}
             description={post.data.description}
             category={post.data.category}
-            slug={post.slug}
+            slug={getArticleSlug(post)}
             image={post.data.image}
             lang={lang}
           />

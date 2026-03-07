@@ -3,6 +3,7 @@ title: Benvenuti su Prometheus
 description: Scopri la nostra visione per una piattaforma moderna di condivisione della conoscenza costruita con tecnologie all'avanguardia.
 category: Annuncio
 pubDate: 2024-01-15
+image: ./assets/hero.svg
 lang: it
 ---
 
