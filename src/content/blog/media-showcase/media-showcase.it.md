@@ -37,7 +37,7 @@ Le immagini vettoriali sono particolarmente utili per:
 Il video incorporato permette tutorial, demo e narrazione visiva. Il player supporta controlli standard — play, pausa, volume, schermo intero.
 
 <video controls preload="metadata" width="100%">
-  <source src="/media/demo.mp4" type="video/mp4" />
+  <source src="./assets/demo.mp4" type="video/mp4" />
   Il tuo browser non supporta l'elemento video.
 </video>
 
@@ -48,7 +48,7 @@ I file video vengono serviti come risorse statiche dalla directory `public/`. Pe
 Gli embed audio sono utili per podcast, campioni musicali o narrazione. Il player nativo del browser fornisce i controlli di riproduzione.
 
 <audio controls preload="metadata">
-  <source src="/media/sample.m4a" type="audio/mp4" />
+  <source src="./assets/sample.m4a" type="audio/mp4" />
   Il tuo browser non supporta l'elemento audio.
 </audio>
 

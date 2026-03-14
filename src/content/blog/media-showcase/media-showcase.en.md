@@ -37,7 +37,7 @@ Vector images are particularly useful for:
 Embedded video allows for tutorials, demos, and visual storytelling. The player supports standard controls — play, pause, volume, fullscreen.
 
 <video controls preload="metadata" width="100%">
-  <source src="/media/demo.mp4" type="video/mp4" />
+  <source src="./assets/demo.mp4" type="video/mp4" />
   Your browser does not support the video element.
 </video>
 
@@ -48,7 +48,7 @@ Video files are served as static assets from the `public/` directory. For produc
 Audio embeds are useful for podcasts, music samples, or narration. The native browser player provides playback controls.
 
 <audio controls preload="metadata">
-  <source src="/media/sample.m4a" type="audio/mp4" />
+  <source src="./assets/sample.m4a" type="audio/mp4" />
   Your browser does not support the audio element.
 </audio>
 

@@ -37,7 +37,7 @@ Las imágenes vectoriales son particularmente útiles para:
 El video incrustado permite tutoriales, demos y narración visual. El reproductor admite controles estándar — reproducir, pausar, volumen, pantalla completa.
 
 <video controls preload="metadata" width="100%">
-  <source src="/media/demo.mp4" type="video/mp4" />
+  <source src="./assets/demo.mp4" type="video/mp4" />
   Tu navegador no soporta el elemento video.
 </video>
 
@@ -48,7 +48,7 @@ Los archivos de video se sirven como recursos estáticos desde el directorio `pu
 Los embeds de audio son útiles para podcasts, muestras musicales o narración. El reproductor nativo del navegador proporciona controles de reproducción.
 
 <audio controls preload="metadata">
-  <source src="/media/sample.m4a" type="audio/mp4" />
+  <source src="./assets/sample.m4a" type="audio/mp4" />
   Tu navegador no soporta el elemento audio.
 </audio>
 
