@@ -41,7 +41,7 @@ Embedded video allows for tutorials, demos, and visual storytelling. The player 
   Your browser does not support the video element.
 </video>
 
-Video files are served as static assets from the `public/` directory. For production use, consider a CDN or adaptive streaming for larger files.
+Video files are stored in the article's `assets/` folder and served automatically at build time. For production use, consider a CDN or adaptive streaming for larger files.
 
 ## Audio
 
@@ -52,7 +52,7 @@ Audio embeds are useful for podcasts, music samples, or narration. The native br
   Your browser does not support the audio element.
 </audio>
 
-Audio files follow the same serving strategy as video — static assets with native browser playback.
+Audio files follow the same strategy as video — stored in `assets/` and resolved at build time.
 
 ## Media Best Practices
 
