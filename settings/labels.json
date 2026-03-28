@@ -2,7 +2,10 @@
   {
     "key": "test",
     "translations": {
-      "en": "Test Label"
+      "en": "Test Label",
+      "ru": "Test",
+      "it": "Test",
+      "es": "Test"
     }
   }
 ]
