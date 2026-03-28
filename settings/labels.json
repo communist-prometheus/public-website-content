@@ -29,7 +29,10 @@
   {
     "key": "test-label",
     "translations": {
-      "en": "Test"
+      "en": "Test",
+      "ru": "Test",
+      "it": "Test",
+      "es": "Test"
     }
   }
 ]
