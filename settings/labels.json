@@ -25,5 +25,11 @@
       "it": "Comunità",
       "es": "Comunidad"
     }
+  },
+  {
+    "key": "test-label",
+    "translations": {
+      "en": "Test"
+    }
   }
 ]
