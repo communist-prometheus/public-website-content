@@ -1,5 +1,5 @@
 ---
-title: Navigation
+title: Навигация
 home: Главная
 about: О нас
 blog: Блог
@@ -10,3 +10,4 @@ menu: Меню
 copyright: "© Все права защищены"
 lang: ru
 ---
+
