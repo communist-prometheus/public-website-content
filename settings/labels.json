@@ -35,5 +35,59 @@
       "pl": "Społeczność",
       "uk": "Спільнота"
     }
+  },
+  {
+    "key": "editorial",
+    "translations": {
+      "en": "Editorial",
+      "ru": "Редакционная статья",
+      "it": "Editoriale",
+      "es": "Editorial"
+    }
+  },
+  {
+    "key": "international",
+    "translations": {
+      "en": "International politics",
+      "ru": "Международная политика",
+      "it": "Politica internazionale",
+      "es": "Política internacional"
+    }
+  },
+  {
+    "key": "programme",
+    "translations": {
+      "en": "Programme",
+      "ru": "Программа",
+      "it": "Programma",
+      "es": "Programa"
+    }
+  },
+  {
+    "key": "history",
+    "translations": {
+      "en": "History",
+      "ru": "История",
+      "it": "Storia",
+      "es": "Historia"
+    }
+  },
+  {
+    "key": "critique",
+    "translations": {
+      "en": "Critique",
+      "ru": "Критика",
+      "it": "Critica",
+      "es": "Crítica"
+    }
+  },
+  {
+    "key": "appeal",
+    "translations": {
+      "en": "Appeal",
+      "ru": "Обращения",
+      "it": "Appello",
+      "es": "Llamamiento"
+    }
   }
 ]
