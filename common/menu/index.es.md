@@ -1,5 +1,5 @@
 ---
-title: Navigation
+title: Navegación
 home: Inicio
 about: Sobre nosotros
 blog: Blog
@@ -10,3 +10,4 @@ menu: Menú
 copyright: "© Todos los derechos reservados"
 lang: es
 ---
+
