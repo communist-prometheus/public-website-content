@@ -5,6 +5,7 @@ category: Critica
 pubDate: 2026-04-30
 published: true
 lang: it
+newspaper: magazine-1-mai-2026
 ---
 
 # La concezione apologetica della produttività di tutte le professioni
