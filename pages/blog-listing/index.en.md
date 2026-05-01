@@ -1,6 +1,6 @@
 ---
-title: Blog - Prometheus
-description: Articles, tutorials, and insights about modern web development, open source, and technology.
+title: Blog — Communist Prometheus
+description: "Articles, documents and reviews from Communist Prometheus: Marxist theory, revolutionary practice and international surveys of the class struggle."
 heading: Blog
 allCategory: All
 lang: en

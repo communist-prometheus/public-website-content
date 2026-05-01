@@ -1,8 +1,9 @@
 ---
-title: Prometheus - Plataforma Web Moderna
-description: Una plataforma moderna para compartir conocimientos, ideas e innovaciones. Construida con tecnologías web de vanguardia para ofrecer la mejor experiencia.
-heroTitle: Bienvenidos a Prometheus
-latestNews: Últimas Noticias
-viewAllPosts: Ver todos los artículos
+title: Prometeo Comunista — marxistas revolucionarios
+description: "Un grupo de marxistas revolucionarios. Concebimos nuestra actividad como parte del movimiento mundial de la clase obrera para superar el capitalismo. Nos basamos en el núcleo programático del «Manifiesto del Partido Comunista»: comunismo o barbarie."
+heroTitle: Prometeo Comunista
+subtitle: "Marxismo revolucionario. Comunismo o barbarie. La emancipación de la clase obrera ha de ser obra de la propia clase obrera."
+latestNews: Últimos materiales
+viewAllPosts: Todos los materiales
 lang: es
 ---
