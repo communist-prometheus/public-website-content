@@ -1,6 +1,6 @@
 ---
-title: Blog - Prometheus
-description: Articoli, tutorial e approfondimenti sullo sviluppo web moderno, open source e tecnologia.
+title: Blog — Prometeo Comunista
+description: "Articoli, documenti e panoramiche del gruppo «Prometeo Comunista»: teoria marxista, pratica rivoluzionaria e analisi internazionali della lotta di classe."
 heading: Blog
 allCategory: Tutti
 lang: it
