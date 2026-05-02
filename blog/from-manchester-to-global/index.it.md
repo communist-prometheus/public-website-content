@@ -10,9 +10,9 @@ newspaper: magazine-1-mai-2026
 
 # Da Manchester di Engels a Manchester Globale
 
-Nel 1845, il ventiquattrenne Friedrich Engels pubblicò il libro “La situazione della classe operaia in Inghilterra”, che Lenin definì _«un terribile atto d’accusa contro il capitalismo e la borghesia»@@FOOTNOTE\_REF\_1@@_, annoverandolo tra le migliori opere della letteratura socialista mondiale. La scelta dell’oggetto di analisi non fu casuale: Manchester del XIX secolo rappresentava il primo “laboratorio puro” del capitalismo industriale. Engels documentò con precisione protocollare come un sistema dotato di una capacità di innovazione tecnologica senza precedenti generasse, simultaneamente, miseria assoluta, epidemie e degradazione della vita umana. Era la realtà della soffocante e fuligginosa Coketown di “Tempi difficili” di Charles Dickens e delle viscere infernali di “Germinal” di Émile Zola.
+Nel 1845, il ventiquattrenne Friedrich Engels pubblicò il libro “La situazione della classe operaia in Inghilterra”, che Lenin definì _«un terribile atto d’accusa contro il capitalismo e la borghesia»[1](#footnote-ref-1), annoverandolo tra le migliori opere della letteratura socialista mondiale. La scelta dell’oggetto di analisi non fu casuale: Manchester del XIX secolo rappresentava il primo “laboratorio puro” del capitalismo industriale. Engels documentò con precisione protocollare come un sistema dotato di una capacità di innovazione tecnologica senza precedenti generasse, simultaneamente, miseria assoluta, epidemie e degradazione della vita umana. Era la realtà della soffocante e fuligginosa Coketown di “Tempi difficili” di Charles Dickens e delle viscere infernali di “Germinal” di Émile Zola.
 
-Nel primo volume de “Il Capitale”, Karl Marx formulò la legge: «\[…\] _tutti i metodi per la produzione di plusvalore sono al tempo stesso metodi dell’accumulazione e ogni estensione dell’accumulazione diventa, viceversa, mezzo per lo sviluppo di quei metodi. Ne consegue quindi, che nella misura in cui il capitale si accumula, la situazione dell’operaio, qualunque sia la sua retribuzione, alta o bassa, deve peggiorare. La legge infine che equilibra costantemente sovrappopolazione relativa, ossia l’esercito industriale di riserva da una parte e volume e energia dell’accumulazione dall’altra, incatena l’operaio al capitale in maniera più salda che i cunei di Efesto non saldassero alla roccia Prometeo. Questa legge determina un’accumulazione di miseria proporzionata all’accumulazione di capitale. L’accumulazione di ricchezza all’uno dei poli è dunque al tempo stesso accumulazione di miseria, tormento di lavoro, schiavitù, ignoranza, brutalizzazione e degradazione morale al polo opposto ossia dalla parte della classe che produce il proprio prodotto come capitale»@@FOOTNOTE\_REF\_2@@_.
+Nel primo volume de “Il Capitale”, Karl Marx formulò la legge: «\[…\] _tutti i metodi per la produzione di plusvalore sono al tempo stesso metodi dell’accumulazione e ogni estensione dell’accumulazione diventa, viceversa, mezzo per lo sviluppo di quei metodi. Ne consegue quindi, che nella misura in cui il capitale si accumula, la situazione dell’operaio, qualunque sia la sua retribuzione, alta o bassa, deve peggiorare. La legge infine che equilibra costantemente sovrappopolazione relativa, ossia l’esercito industriale di riserva da una parte e volume e energia dell’accumulazione dall’altra, incatena l’operaio al capitale in maniera più salda che i cunei di Efesto non saldassero alla roccia Prometeo. Questa legge determina un’accumulazione di miseria proporzionata all’accumulazione di capitale. L’accumulazione di ricchezza all’uno dei poli è dunque al tempo stesso accumulazione di miseria, tormento di lavoro, schiavitù, ignoranza, brutalizzazione e degradazione morale al polo opposto ossia dalla parte della classe che produce il proprio prodotto come capitale»[2](#footnote-ref-2).
 
 Un secolo e mezzo dopo, gli apologeti del capitalismo sostengono che questa legge sia obsoleta. Ci parlano dell’avvento della “società post-industriale”, del trionfo della classe media e dell’economia della conoscenza. Tuttavia, se scartiamo il fumo ideologico e applichiamo una rigorosa analisi marxista dell’economia politica alla realtà contemporanea, scopriamo che il capitalismo non ha cambiato la sua natura: ha semplicemente scalato Manchester del 1845 alle dimensioni dell’intero pianeta. L’economia odierna è un’unica fabbrica globale, dove gli algoritmi digitali fungono da sorveglianti senza anima e le bolle finanziarie agiscono come un polmone d’acciaio per un sistema afflitto da una crisi cronica di sovrapproduzione.
 
@@ -24,7 +24,25 @@ Per capire perché il programmatore, il corriere e l’assemblatore di smartphon
 
 Il capitalismo è guidato da un unico obiettivo: l’autovalorizzazione del valore (accumulazione di capitale). Il profitto deriva esclusivamente dal lavoro non pagato degli operai (plusvalore). Nel paradigma marxista, il saggio di profitto è espresso dalla formula:
 
+
+<div style="
+  display: inline-block;
+  padding: 12px 18px;
+  border: 1px solid;
+  border-radius: 6px;
+  font-family: 'Times New Roman', serif;
+  font-size: 1.2em;
+  line-height: 1.4;
+  text-align: center;
+">
+  p' = 
+  <div style="display: inline-block; vertical-align: middle;">
+    <div>m</div>
+    <div style="border-top: 1px solid; padding-top: 2px;">c + v</div>
+  </div>
+</div>
 ,
+
 
 dove _m_ è il plusvalore, _c_ è il capitale costante (macchinari, materie prime, server, algoritmi) e _v_ è il capitale variabile (salari degli operai).
 
@@ -39,94 +57,46 @@ Gli apologeti del capitalismo percepivano il periodo della crescita post-bellica
 Verso la fine degli anni ‘60, le economie di USA, Germania e Giappone risultarono sature di capacità produttiva. La legge della caduta del saggio di profitto reclamò il suo tributo. La crisi del 1973 (spesso erroneamente ridotta al solo embargo petrolifero) segnò il momento in cui il capitale non fu più in grado di garantire la crescita dei profitti mantenendo il “compromesso di classe” del dopoguerra (salari elevati).
 
 Da questo momento ha inizio ciò che gli economisti chiamano il “Grande Divario” (The Great Decoupling). L’economista inglese, docente all’Università di Oxford, studioso del capitalismo Andrew Glyn@@FOOTNOTE\_REF\_3@@, nel libro “_Capitalism Unleashed”_ (Oxford University Press, 2006), mostra il meccanismo della rivincita capitalistica. Le sue conclusioni sono confermate da uno studio dell’Economic Policy Institute (EPI): dal 1973, la produttività del lavoro negli Stati Uniti e in Europa è cresciuta di quasi il 110 %, mentre il salario reale del lavoratore mediano è rimasto stagnante (vedi tabella e grafico). Tutto il valore aggiunto degli ultimi cinquant’anni è stato sottratto dal capitale per compensare la caduta del saggio di profitto. Il sistema sopravvive esclusivamente attraverso l’inasprimento del grado di sfruttamento.
+ 
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid #000; padding: 6px;"><strong>Anno</strong></th>
+      <th style="border: 1px solid #000; padding: 6px;"><strong>La produttività del lavoro (Output/Hour)</strong></th>
+      <th style="border: 1px solid #000; padding: 6px;"><strong>Salario reale mediano (Real Wage)</strong></th>
+      <th style="border: 1px solid #000; padding: 6px;"><strong>Divario (Capital Appropriation)</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #000; padding: 6px; text-align: center;">1973</td>
+      <td style="border: 1px solid #000; padding: 6px; text-align: center;">100</td>
+      <td style="border: 1px solid #000; padding: 6px; text-align: center;">100</td>
+      <td style="border: 1px solid #000; padding: 6px; text-align: center;">0</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 6px; text-align: center;">1990</td>
+      <td style="border: 1px solid #000; padding: 6px; text-align: center;">132</td>
+      <td style="border: 1px solid #000; padding: 6px; text-align: center;">103</td>
+      <td style="border: 1px solid #000; padding: 6px; text-align: center;">+29</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 6px; text-align: center;">2010</td>
+      <td style="border: 1px solid #000; padding: 6px; text-align: center;">185</td>
+      <td style="border: 1px solid #000; padding: 6px; text-align: center;">108</td>
+      <td style="border: 1px solid #000; padding: 6px; text-align: center;">+77</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #000; padding: 6px; text-align: center;"><strong>2022 (Est.)</strong></td>
+      <td style="border: 1px solid #000; padding: 6px; text-align: center;"><strong>210</strong></td>
+      <td style="border: 1px solid #000; padding: 6px; text-align: center;"><strong>110</strong></td>
+      <td style="border: 1px solid #000; padding: 6px; text-align: center;"><strong>+100</strong></td>
+    </tr>
+  </tbody>
+</table>
 
-| 
-**Anno**
+<p><em>Dati basati sul modello EPI (Economic Policy Institute).</em></p>
 
- | 
-
-**La produttività del lavoro (Output/Hour)**
-
- | 
-
-**Salario reale mediano (Real Wage)**
-
- | 
-
-**Divario (Capital Appropriation)**
-
- |
-| --- | --- | --- | --- |
-| 
-
-**1973**
-
- | 
-
-100
-
- | 
-
-100
-
- | 
-
-0
-
- |
-| 
-
-**1990**
-
- | 
-
-132
-
- | 
-
-103
-
- | 
-
-+29
-
- |
-| 
-
-**2010**
-
- | 
-
-185
-
- | 
-
-108
-
- | 
-
-+77
-
- |
-| 
-
-**2022 (Est.)**
-
- | 
-
-**210**
-
- | 
-
-**110**
-
- | 
-
-**+100**
-
- |
-
-_Dati basati sul modello EPI (Economic Policy Institute)._
 
 **_Il capitale, alla rincorsa del profitto, sviluppa il Sud Globale_**
 
