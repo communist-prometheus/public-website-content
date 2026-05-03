@@ -10,7 +10,7 @@ newspaper: magazine-1-mai-2026
 
 # Da Manchester di Engels a Manchester Globale
 
-Nel 1845, il ventiquattrenne Friedrich Engels pubblicò il libro “La situazione della classe operaia in Inghilterra”, che Lenin definì _«un terribile atto d’accusa contro il capitalismo e la borghesia»[1](#footnote-ref-1), annoverandolo tra le migliori opere della letteratura socialista mondiale. La scelta dell’oggetto di analisi non fu casuale: Manchester del XIX secolo rappresentava il primo “laboratorio puro” del capitalismo industriale. Engels documentò con precisione protocollare come un sistema dotato di una capacità di innovazione tecnologica senza precedenti generasse, simultaneamente, miseria assoluta, epidemie e degradazione della vita umana. Era la realtà della soffocante e fuligginosa Coketown di “Tempi difficili” di Charles Dickens e delle viscere infernali di “Germinal” di Émile Zola.
+Nel 1845, il ventiquattrenne Friedrich Engels pubblicò il libro “La situazione della classe operaia in Inghilterra”, che Lenin definì _«un terribile atto d’accusa contro il capitalismo e la borghesia»[1](#footnote-1), annoverandolo tra le migliori opere della letteratura socialista mondiale. La scelta dell’oggetto di analisi non fu casuale: Manchester del XIX secolo rappresentava il primo “laboratorio puro” del capitalismo industriale. Engels documentò con precisione protocollare come un sistema dotato di una capacità di innovazione tecnologica senza precedenti generasse, simultaneamente, miseria assoluta, epidemie e degradazione della vita umana. Era la realtà della soffocante e fuligginosa Coketown di “Tempi difficili” di Charles Dickens e delle viscere infernali di “Germinal” di Émile Zola.
 
 Nel primo volume de “Il Capitale”, Karl Marx formulò la legge: «\[…\] _tutti i metodi per la produzione di plusvalore sono al tempo stesso metodi dell’accumulazione e ogni estensione dell’accumulazione diventa, viceversa, mezzo per lo sviluppo di quei metodi. Ne consegue quindi, che nella misura in cui il capitale si accumula, la situazione dell’operaio, qualunque sia la sua retribuzione, alta o bassa, deve peggiorare. La legge infine che equilibra costantemente sovrappopolazione relativa, ossia l’esercito industriale di riserva da una parte e volume e energia dell’accumulazione dall’altra, incatena l’operaio al capitale in maniera più salda che i cunei di Efesto non saldassero alla roccia Prometeo. Questa legge determina un’accumulazione di miseria proporzionata all’accumulazione di capitale. L’accumulazione di ricchezza all’uno dei poli è dunque al tempo stesso accumulazione di miseria, tormento di lavoro, schiavitù, ignoranza, brutalizzazione e degradazione morale al polo opposto ossia dalla parte della classe che produce il proprio prodotto come capitale»[2](#footnote-ref-2).
 
@@ -42,7 +42,7 @@ Il capitalismo è guidato da un unico obiettivo: l’autovalorizzazione del valo
   </div>
 </div>
 ,
-
+<div><br></div>
 
 dove _m_ è il plusvalore, _c_ è il capitale costante (macchinari, materie prime, server, algoritmi) e _v_ è il capitale variabile (salari degli operai).
 
@@ -56,7 +56,7 @@ Gli apologeti del capitalismo percepivano il periodo della crescita post-bellica
 
 Verso la fine degli anni ‘60, le economie di USA, Germania e Giappone risultarono sature di capacità produttiva. La legge della caduta del saggio di profitto reclamò il suo tributo. La crisi del 1973 (spesso erroneamente ridotta al solo embargo petrolifero) segnò il momento in cui il capitale non fu più in grado di garantire la crescita dei profitti mantenendo il “compromesso di classe” del dopoguerra (salari elevati).
 
-Da questo momento ha inizio ciò che gli economisti chiamano il “Grande Divario” (The Great Decoupling). L’economista inglese, docente all’Università di Oxford, studioso del capitalismo Andrew Glyn@@FOOTNOTE\_REF\_3@@, nel libro “_Capitalism Unleashed”_ (Oxford University Press, 2006), mostra il meccanismo della rivincita capitalistica. Le sue conclusioni sono confermate da uno studio dell’Economic Policy Institute (EPI): dal 1973, la produttività del lavoro negli Stati Uniti e in Europa è cresciuta di quasi il 110 %, mentre il salario reale del lavoratore mediano è rimasto stagnante (vedi tabella e grafico). Tutto il valore aggiunto degli ultimi cinquant’anni è stato sottratto dal capitale per compensare la caduta del saggio di profitto. Il sistema sopravvive esclusivamente attraverso l’inasprimento del grado di sfruttamento.
+Da questo momento ha inizio ciò che gli economisti chiamano il “Grande Divario” (The Great Decoupling). L’economista inglese, docente all’Università di Oxford, studioso del capitalismo Andrew Glyn[3](#footnote-3), nel libro “_Capitalism Unleashed”_ (Oxford University Press, 2006), mostra il meccanismo della rivincita capitalistica. Le sue conclusioni sono confermate da uno studio dell’Economic Policy Institute (EPI): dal 1973, la produttività del lavoro negli Stati Uniti e in Europa è cresciuta di quasi il 110 %, mentre il salario reale del lavoratore mediano è rimasto stagnante (vedi tabella e grafico). Tutto il valore aggiunto degli ultimi cinquant’anni è stato sottratto dal capitale per compensare la caduta del saggio di profitto. Il sistema sopravvive esclusivamente attraverso l’inasprimento del grado di sfruttamento.
  
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
@@ -310,11 +310,11 @@ La rivoluzione comunista non è morta. È solo entrata in clandestinità e prose
 
 _Marzo 2026_
 
-1.  \- Lenin V. I., Editori Riuniti, V. 2, P. 13. [↑](#footnote-ref-1)
+[1.](#footnote-ref-1)  \- Lenin V. I., Editori Riuniti, V. 2, P. 13.
     
-2.  \- https://www.criticamente.com/marxismo/capitale/capitale\_1/Marx\_Karl\_-\_Il\_Capitale\_-\_Libro\_I\_-\_23.htm [↑](#footnote-ref-2)
+[2.](#footnote-ref-2)  \- https://www.criticamente.com/marxismo/capitale/capitale\_1/Marx\_Karl\_-\_Il\_Capitale\_-\_Libro\_I\_-\_23.htm
     
-3.  \- Negli anni ‘70 e ‘80, Glyn fu un attivista del Comitato trotskista per l’Internazionale operaia, nonché consigliere dell’Unione nazionale dei minatori (Regno Unito) e dell’Organizzazione internazionale del lavoro. [↑](#footnote-ref-3)
+[3.](#footnote-ref-3)  \- Negli anni ‘70 e ‘80, Glyn fu un attivista del Comitato trotskista per l’Internazionale operaia, nonché consigliere dell’Unione nazionale dei minatori (Regno Unito) e dell’Organizzazione internazionale del lavoro.
     
 4.  \- https://www.marxists.org/italiano/marx-engels/1847/lavcap.htm [↑](#footnote-ref-4)
     
