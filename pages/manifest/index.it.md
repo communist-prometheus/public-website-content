@@ -4,8 +4,6 @@ description: Il presente testo costituisce il nostro documento programmatico. Sp
 lang: it
 ---
 
-# Manifesto del gruppo “Prometeo comunista”
-
 ## 1\. Prefazione
 
 Il “Manifesto del Partito Comunista” di Karl Marx e Friedrich Engels fu il primo documento programmatico storico del partito rivoluzionario del proletariato mondiale. Proprio per il carattere _programmatico_ del Manifesto, gli enunciati che ne costituiscono il _nucleo_, la sua essenza, non si riferivano direttamente all’epoca della sua pubblicazione, ma descrivevano le condizioni e fissavano gli obiettivi a lungo termine in cui avrebbe dovuto svilupparsi il movimento comunista. Il “Prometeo comunista” non è nato dal nulla: alla base della nostra attività vi è la _continuità_ e lo _sviluppo_ del nucleo programmatico del “Manifesto del Partito Comunista”.
