@@ -4,7 +4,9 @@ description: Nuestra misión, principios fundamentales y compromiso con la democ
 lang: es
 ---
 
-**I. Prólogo**
+# Manifiesto del grupo «Prometeo Comunista»
+
+## I. Prólogo
 
 El "Manifiesto del Partido Comunista" de Karl Marx y Friedrich Engels fue el primer documento programático histórico del partido revolucionario del proletariado mundial. Y fue precisamente en virtud del carácter programático del manifiesto que las tesis que constituyen su núcleo, su esencia, no se referían directamente a la época de su publicación, sino que describían las condiciones y fijaban los objetivos a largo plazo en los que debía desarrollarse el movimiento comunista. "Prometeo Comunista" no ha surgido de la nada: la base de nuestra actividad es la continuidad y el desarrollo del núcleo programático del "Manifiesto del Partido Comunista".
 
@@ -14,7 +16,7 @@ En "La ideología alemana", los fundadores del comunismo científico señalaron 
 
 Y si los propios Marx y Engels vivieron en un período en el que los hechos sociales fundamentales y las tareas del movimiento obrero plasmadas en el "Manifiesto" se encontraban, en el mejor de los casos, en una fase embrionaria, nosotros vivimos por primera vez en una época en la que todas estas tesis pueden considerarse, sin reserva alguna, como el programa del partido comunista mundial.
 
-**II. El carácter de nuestra época**
+## II. El carácter de nuestra época
 
 Con la culminación de la formación del mercado mundial, el capitalismo ha cumplido su función histórica. La época de las revoluciones burguesas y de la formación de los mercados nacionales, de la burguesía nacional y de los Estados nacionales ha terminado. La sociedad burguesa contemporánea se encuentra en su fase superior, imperialista, caracterizada por la reacción en todos los frentes. Desde la etapa ascendente y progresista de su desarrollo, el capitalismo ha girado hacia una inevitable y aterradora decadencia, algo que ya estaba claro para los marxistas revolucionarios de la época de Vladímir Lenin y Rosa Luxemburgo. En nuestra época contemporánea, ha creado no solo fuerzas productivas gigantescas, que son la premisa objetiva para su superación, sino también fuerzas destructivas colosales, capaces de aniquilar a la humanidad. La tarea de la clase obrera, encabezada por su vanguardia, el partido comunista mundial, se reduce hoy a destruir el capitalismo, impidiendo que arrastre consigo al abismo a toda la humanidad. Comunismo o barbarie: tal es la alternativa.
 
@@ -22,7 +24,7 @@ A pesar de que todas las fuerzas del viejo mundo ignoran este hecho, en las entr
 
 Esta tarea no puede resolverse sin que las amplias masas de la clase obrera adquieran una conciencia comunista, y esto «solamente puede conseguirse mediante un movimiento práctico, mediante una revolución; y que, por consiguiente, la revolución no sólo es necesaria porque la clase dominante no puede ser derrocada de otro modo, sino también porque únicamente por medio de una revolución logrará la clase que derriba salir del cieno en que se hunde y volverse capaz de fundar la sociedad sobre nuevas bases» ("La ideología alemana").
 
-**III. El Partido**
+## III. El Partido
 
 Las ideas dominantes de cualquier sociedad de clases son las ideas de la clase dominante. En la sociedad moderna domina la burguesía, y por eso, incluso entre los trabajadores asalariados, las ideologías burguesas dominan en todas partes. «Para superar la idea de la propiedad privada basta la idea del comunismo. Para superar la propiedad privada real se requiere una acción comunista real», afirmaba Marx ya en los "Manuscritos económicos y filosóficos de 1844". Así, una verdadera crítica de las ideas burguesas solo es posible en el marco de un movimiento práctico real, en el proceso de la revolución comunista. Este movimiento práctico debe ser encabezado por el partido comunista mundial. Tal partido no existe en la actualidad. No nos consideramos ese partido ni siquiera su único embrión. Consideramos nuestra actividad como parte del movimiento práctico hacia el comunismo, como la lucha por la creación de este partido, y nuestro manifiesto solo como uno de los pasos necesarios en el camino hacia su creación. En 1999, desde las páginas de nuestro periódico Komsa, declarábamos: «Estamos dispuestos a colaborar con todos aquellos que no de palabra, sino de hecho, libran la lucha por la emancipación del proletariado del poder de la burguesía; con todos los que se sitúan en las posiciones del marxismo revolucionario clásico, independientemente de la organización en la que se encuentren estas personas. Nuestra posición sigue siendo la misma: el proletariado no tiene hoy su propio partido, nos enfrentamos a la urgente necesidad de crearlo. Tal es la tarea práctica inmediata de nuestra organización». Esta tarea sigue siendo vigente hoy en día.
 
@@ -38,7 +40,7 @@ Así pues, existe una clase «que se ve obligada a soportar todos los inconvenie
 
 La evolución de los trabajadores asalariados desde individuos fortuitos a exponentes conscientes del proceso inconsciente «se opera de un modo natural y espontáneo», «no está subordinada a un plan general de individuos libremente asociados», este desarrollo se produce «muy lentamente», «las distintas fases y los diversos intereses no se superan nunca del todo». Los comunistas solo pueden conferir a este proceso un carácter más planificado y organizado.
 
-**IV. El método**
+## IV. El método
 
 La base teórica del partido comunista mundial es el marxismo.
 
@@ -46,7 +48,7 @@ David Riazánov, en su historia de la Liga de los Comunistas, escribió: «Marx 
 
 Esto se dijo en una época en la que la burguesía aún no había resuelto todas las tareas históricas que tenía ante sí: la época de las revoluciones burguesas. El punto culminante de esta época fue la Revolución de Octubre en Rusia.
 
-**V. Los destinos históricos del capitalismo**
+## V. Los destinos históricos del capitalismo
 
 Toda la historia escrita de la sociedad humana que ha llegado hasta nosotros es una historia de lucha de clases.
 
@@ -58,7 +60,7 @@ Así, el movimiento práctico hacia el comunismo se desarrolla en el tiempo y el
 
 Al mismo tiempo, el desarrollo del capitalismo ya no solo frena el desarrollo de las fuerzas productivas, sino que cada vez más las destruye en catastróficas crisis de superproducción, agudizando la lucha por los mercados y el nuevo reparto del mundo entre los Estados imperialistas. En el fuego de estas crisis y guerras, el capitalismo se "rejuvenece", como la mítica ave fénix, abriendo nuevos ciclos de acumulación de capital. El proletariado no tiene otra vía hacia la emancipación que la destrucción del modo de producción capitalista.
 
-**VI. La difusión del marxismo**
+## VI. La difusión del marxismo
 
 También en el espacio y en el tiempo se produce el desarrollo y la difusión del marxismo: desde Europa continental se extiende a Gran Bretaña; con los emigrantes europeos penetra en América del Norte; gracias a los estudiantes matriculados en universidades europeas y a los viajeros de familias aristocráticas, la intelectualidad avanzada de Rusia conoce las obras de Marx; más tarde, las ideas del comunismo científico se abrirán paso también en Asia.
 
@@ -138,7 +140,7 @@ No fue así en la época de las revoluciones burguesas, que luchaban contra las 
 
 Nuestra época plantea por primera vez al proletariado y a su partido comunista mundial la tarea de cumplir única y exclusivamente sus propias tareas puramente comunistas. Por eso, el partido comunista no puede entrar en ningún bloque interclasista, coaliciones electorales, alianzas interpartidistas, comités de coordinación, etc. Pero siempre hemos saludado y saludaremos a los desertores de la clase burguesa que emprenden el camino de la revolución comunista mundial. Siguen el único camino correcto: el camino de Marx, Engels, Lenin.
 
-**El capitalismo engendra guerras**
+## VII. El capitalismo engendra guerras
 
 La mercancía es la célula económica de la sociedad capitalista. De esta célula brotan inexorablemente todos sus rasgos inherentes: la competencia por todos los medios posibles, la miseria y la manifestación suprema de las contradicciones del capitalismo: las guerras imperialistas mundiales. Así, el propio desarrollo del modo de producción capitalista genera constantemente las condiciones para las guerras. Por consiguiente, el único modo de poner fin a las guerras es la abolición de la propiedad privada.
 
@@ -146,7 +148,7 @@ Ya en "La ideología alemana", Marx y Engels escribieron: «La gran industria un
 
 En este momento, el modo de producción capitalista ha abarcado efectivamente todo el globo terrestre, por lo que, si Marx y Engels ya crearon la Liga de los Comunistas como organización internacional, en las condiciones actuales de competencia universal los marxistas están obligados a concebirse como vanguardia proletaria mundial; de lo contrario, están condenados al localismo y a la estrechez, o, lo que es peor, a convertirse en instrumento de una de las fracciones de la burguesía, que persigue siempre determinados intereses nacionalmente limitados, inadecuados para la época contemporánea.
 
-**El carácter de las guerras en la época actual**
+## VIII. El carácter de las guerras en la época actual
 
 El marxismo siempre ha considerado la formación de las naciones como consecuencia de la afirmación del capitalismo y la liquidación del feudalismo; es decir, antes del comienzo de la época del capitalismo, las naciones en la acepción científica de la palabra no existían. En la Edad Media, cada uno de los Estados estaba formado por numerosos cantones y regiones autónomas con sus propias barreras aduaneras, que a menudo incluso hablaban idiomas distintos. Eran unidades económicas independientes, y sus vínculos con el poder central del Estado eran bastante débiles. El capitalismo, al destruir los vínculos comunales, gremiales, corporativos, etc., de la Edad Media, instauró en su lugar otro tipo de vínculo: el nexo en el marco de la economía mercantil, establecido por el mercado. Fue precisamente este nexo el que se convirtió en el tejido conectivo de la nación.
 
@@ -176,7 +178,7 @@ Sin embargo, esta consigna, y la táctica del derrotismo revolucionario que la s
 
 Mientras este movimiento no exista, cada obrero puede poner su ladrillo en los cimientos del edificio futuro, es decir, comprender —y difundir esta comprensión a su alrededor— que, incluso en un sentido estrictamente cotidiano, no tiene ningún sentido que el proletariado apoye a "su" burguesía en la guerra, ya que la clase dominante la utilizará inevitablemente para intensificar la opresión de la clase explotada (restricción de las libertades políticas, de expresión, de reunión y de organización, restricciones en la vida diaria, traspaso del aumento de los costes a la población, intensificación del régimen laboral, movilización forzosa) y sacará provecho para sí misma (redistribución de activos, aumento de la corrupción y de sus propios privilegios, incluso bajo el pretexto de clasificar como secretos datos antes públicos, enriquecimiento a costa de los contratos militares y la ayuda exterior, agravando aún más la enorme estratificación social generalizada).
 
-**Las tareas de la lucha comunista**
+## IX. Las tareas de la lucha comunista
 
 La asimilación de la teoría marxista y de la experiencia de las batallas de clase anteriores del proletariado es una condición necesaria, pero insuficiente, para la lucha por la creación del partido comunista mundial.
 

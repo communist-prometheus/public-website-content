@@ -4,8 +4,9 @@ description: Nuestra misión, principios fundamentales y compromiso con la democ
 lang: pl
 ---
 
+# Manifest grupy „Komunistyczny Prometeusz"
 
-**I. Przedmowa**
+## I. Przedmowa
 
 „Manifest Partii Komunistycznej" Karola Marksa i Fryderyka Engelsa był pierwszym historycznym dokumentem programowym rewolucyjnej partii światowego proletariatu. I właśnie ze względu na programowy charakter manifestu, tezy stanowiące jego rdzeń, jego istotę, nie odnosiły się bezpośrednio do epoki jego publikacji, lecz opisywały warunki i wyznaczały cele w perspektywie długofalowej, w której miał się rozwijać ruch komunistyczny. „Komunistyczny Prometeusz" nie powstał w próżni: nasza działalność opiera się na ciągłości i rozwoju programowego rdzenia „Manifestu Partii Komunistycznej".
 
@@ -15,7 +16,7 @@ W „Ideologii niemieckiej" twórcy komunizmu naukowego wskazali, że „tej now
 
 O ile sami Marks i Engels żyli w okresie, w którym te podstawowe fakty społeczne i zadania ruchu robotniczego, ujęte w „Manifeście", znajdowały się w najlepszym razie w fazie zalążkowej, o tyle my po raz pierwszy żyjemy w epoce, w której wszystkie wymienione tezy można bez jakichkolwiek zastrzeżeń uznać za program światowej partii komunistycznej.
 
-**II. Charakter naszej epoki**
+## II. Charakter naszej epoki
 
 Wraz z zakończeniem formowania się rynku światowego kapitalizm spełnił swoją historyczną funkcję. Epoka rewolucji burżuazyjnych oraz formowania się rynków narodowych, burżuazji narodowej i państw narodowych dobiegła końca. Współczesne nam społeczeństwo burżuazyjne znajduje się w najwyższej, imperialistycznej fazie, charakteryzującej się reakcją na całym froncie. Od wznoszącej, postępowej fazy swojego rozwoju kapitalizm zawrócił ku nieuchronnemu, przerażającemu upadkowi, co było jasne już dla rewolucyjnych marksistów epoki Włodzimierza Lenina i Róży Luksemburg. W naszej epoce stworzył on nie tylko gigantyczne siły wytwórcze, będące obiektywną przesłanką jego przezwyciężenia, ale i kolosalne siły niszczycielskie, zdolne unicestwić ludzkość. Zadanie klasy robotniczej na czele z jej awangardą, światową partią komunistyczną, sprowadza się dziś do zniszczenia kapitalizmu, by przeszkodzić mu w pociągnięciu za sobą w przepaść całej ludzkości. Komunizm albo barbarzyństwo – oto alternatywa.
 
@@ -23,7 +24,7 @@ Mimo że wszystkie siły starego świata nie dostrzegają tego faktu, w łonie s
 
 To zadanie nie może zostać rozwiązane bez nabycia przez szerokie masy klasy robotniczej świadomości komunistycznej, a to „masowe przeobrażenie ludzi, możliwe jest tylko w ruchu praktycznym, w rewolucji; rewolucja jest więc konieczna nie tylko dlatego, że klasy panującej nie można obalić w żaden inny sposób, lecz i dlatego, że klasa obalająca ją tylko w rewolucji może pozbyć się całego tego starego brudu i stać się zdolna do stworzenia nowego społeczeństwa" („Ideologia niemiecka").
 
-**III. Partia**
+## III. Partia
 
 Myślami panującymi w każdym społeczeństwie klasowym są myśli klasy panującej. We współczesnym społeczeństwie panuje burżuazja, dlatego nawet w środowisku pracowników najemnych powszechnie dominują ideologie burżuazyjne. „Do zniesienia idei własności prywatnej wystarcza w zupełności idea komunizmu. Do zniesienia rzeczywistej własności prywatnej konieczna jest rzeczywista akcja komunistyczna", jak twierdził Marks jeszcze w „Rękopisach ekonomiczno-filozoficznych z 1844 r.". W ten sposób rzeczywista krytyka idei burżuazyjnych jest możliwa jedynie w ramach rzeczywistego ruchu praktycznego, w procesie rewolucji komunistycznej. Na czele tego praktycznego ruchu musi stanąć światowa partia komunistyczna. Takiej partii obecnie nie ma. Nie uważamy się za tę partię ani nawet za jej jedyny zalążek. Postrzegamy naszą działalność jako część praktycznego ruchu ku komunizmowi, jako walkę o utworzenie tej partii, a nasz manifest – zaledwie jako jeden z niezbędnych kroków na drodze do jej powołania. W 1999 roku na łamach wydawanej przez nas gazety „Komsa" oświadczyliśmy: „Jesteśmy gotowi do współpracy ze wszystkimi, którzy nie w słowach, lecz w czynach prowadzą walkę o wyzwolenie proletariatu spod władzy burżuazji; ze wszystkimi, którzy stoją na pozycjach klasycznego marksizmu rewolucyjnego, niezależnie od tego, w jakiej organizacji ci ludzie się znajdują. Nasze stanowisko jest niezmienne – proletariat nie ma dziś swojej partii, stoimy przed pilną koniecznością jej stworzenia. Takie jest najbliższe zadanie praktyczne naszej organizacji". Zadanie to pozostaje aktualne również dziś.
 
@@ -39,7 +40,7 @@ Mamy zatem do czynienia z „klasą, która zmuszona jest ponosić wszystkie ci�
 
 Rozwój pracowników najemnych z przypadkowych jednostek w świadomych wyrazicieli nieświadomego procesu odbywa się żywiołowo, nie jest podporządkowany ogólnemu planowi dobrowolnie zrzeszonych jednostek, rozwój ten przebiega bardzo powoli, różne szczeble i interesy nigdy nie są całkowicie przezwyciężane. Komuniści mogą jedynie nadać temu procesowi bardziej planowy, bardziej zorganizowany charakter.
 
-**IV. Metoda**
+## IV. Metoda
 
 Podstawą teoretyczną światowej partii komunistycznej jest marksizm.
 
@@ -47,7 +48,7 @@ Dawid Riazanow w swojej historii Związku Komunistów pisał: „Marks i Engels 
 
 Zostało to powiedziane w epoce, gdy burżuazja nie rozwiązała jeszcze wszystkich stojących przed nią zadań historycznych – w epoce rewolucji burżuazyjnych. Szczytowym punktem tej epoki była rewolucja październikowa w Rosji.
 
-**V. Historyczne losy kapitalizmu**
+## V. Historyczne losy kapitalizmu
 
 Cała zachowana pisana historia społeczeństwa ludzkiego to historia walki klas.
 
@@ -59,7 +60,7 @@ Tym samym praktyczny ruch ku komunizmowi rozwija się w czasie i przestrzeni, pr
 
 Jednocześnie rozwój kapitalizmu już nie tylko hamuje rozwój sił wytwórczych, ale coraz częściej niszczy je w katastrofalnych kryzysach nadprodukcji, zaostrzając walkę o rynki i nowy podział świata między państwami imperialistycznymi. W ogniu tych kryzysów i wojen kapitalizm „odmładza się" niczym mityczny ptak Feniks, otwierając nowe cykle akumulacji kapitału. Proletariat nie ma innej drogi do wyzwolenia niż przez zniszczenie kapitalistycznego sposobu produkcji.
 
-**VI. Rozprzestrzenianie się marksizmu**
+## VI. Rozprzestrzenianie się marksizmu
 
 Zarówno w przestrzeni, jak i w czasie następuje rozwój i rozprzestrzenianie się marksizmu: z Europy kontynentalnej rozszerza się on na Wielką Brytanię; wraz z migrantami z Europy przenika do Ameryki Północnej; dzięki studentom kształcącym się na europejskich uniwersytetach oraz podróżnikom z rodzin arystokratycznych czołowi ludzie w Rosji zapoznają się z dziełami Marksa; później idee naukowego komunizmu torują sobie drogę również do Azji.
 
@@ -129,7 +130,7 @@ Inaczej było w epoce rewolucji burżuazyjnych, walczących z przeżytkami śred
 
 Nasza epoka po raz pierwszy stawia przed proletariatem i jego światową partią komunistyczną zadanie wykonania wyłącznie własnych, czysto komunistycznych celów. Dlatego partia komunistyczna nie może wchodzić w żadne bloki międzyklasowe, koalicje wyborcze, sojusze międzypartyjne, komitety koordynacyjne itp. My jednak zawsze z radością witaliśmy i będziemy witać uciekinierów z klasy burżuazyjnej, wkraczających na drogę światowej rewolucji komunistycznej. Idą oni bowiem jedyną słuszną ścieżką – drogą Marksa, Engelsa i Lenina.
 
-**VII. Kapitalizm rodzi wojny**
+## VII. Kapitalizm rodzi wojny
 
 Towar to ekonomiczna komórka społeczeństwa kapitalistycznego. Z tej komórki nieuchronnie wyrastają wszystkie jego nieodłączne cechy – konkurencja za pomocą wszelkich możliwych środków, nędza, a także najwyższy wyraz sprzeczności kapitalizmu – światowe wojny imperialistyczne. Tak więc sam rozwój kapitalistycznego sposobu produkcji nieustannie generuje warunki do wybuchu wojen. W konsekwencji jedynym sposobem położenia kresu wojnom jest zniesienie własności prywatnej.
 
@@ -137,7 +138,7 @@ Jeszcze w „Ideologii niemieckiej" Marks i Engels pisali: „...ujednoliciła o
 
 W obecnej chwili kapitalistyczny sposób produkcji rzeczywiście ogarnął całą kulę ziemską, dlatego też – skoro już Marks i Engels tworzyli Związek Komunistów jako organizację o charakterze międzynarodowym – to w obecnych warunkach uniwersalnej konkurencji marksiści mają obowiązek postrzegać siebie jako światową awangardę proletariacką. W przeciwnym razie skazani są na zaściankowość i ograniczoność, a co gorsza, na przekształcenie się w instrument jednej z frakcji burżuazji, która zawsze realizuje określone narodowo ograniczone interesy, nieadekwatne do dzisiejszej epoki.
 
-**VIII. Charakter wojen w obecnej epoce**
+## VIII. Charakter wojen w obecnej epoce
 
 Marksizm zawsze postrzegał powstawanie narodów jako konsekwencję umocnienia się kapitalizmu i likwidacji feudalizmu; w naukowym tego słowa znaczeniu, narody nie istniały przed nadejściem epoki kapitalizmu. W średniowieczu każde z państw składało się z licznych samorządnych kantonów i regionów, posiadających własne komory celne, nierzadko mówiących wręcz różnymi językami. Były to jednostki samodzielne gospodarczo, a ich powiązania z władzą państwową były dosyć słabe. Kapitalizm, który zniszczył średniowieczne więzi wspólnotowe, cechowe czy spółdzielcze, postawił na ich miejscu inne – więzi w ramach gospodarki towarowej, ustanawiane przez rynek. Właśnie ta więź stała się tkanką łączącą naród.
 
@@ -167,7 +168,7 @@ Hasło to – a w ślad za nim, opierająca się na nim jedyna słuszna strategi
 
 Dopóki jednak takiego ruchu nie ma, każdy z robotników jest władny dołożyć swoją cegiełkę, by stworzyć fundamenty gmachu, to znaczy by w pełni przyswoić sobie – i jednocześnie rozsiewać owo uświadomienie na swoje bezpośrednie otoczenie – że, spoglądając na sprawę choćby i z całkowicie pragmatycznego czy codziennego, przyziemnego punktu widzenia, proletariat nie ma żadnego najmniejszego chociażby powodu by okazywać wsparcie „własnej" burżuazji w konflikcie; klasa panująca w stu procentach i zawsze skorzysta bowiem z tej wyjątkowej okazji, by zwielokrotnić ucisk wywierany na swych pracowników najemnych (czego skutkami są ograniczanie swobód o charakterze politycznym, krępowanie wolności wypowiedzi, zebrań czy przynależności organizacyjnej, wreszcie restrykcje życia codziennego, zrzucanie na plecy społeczeństwa lawinowo rosnących wydatków i obciążeń kosztów wojny, zwiększanie intensywności wyzysku w zakładach pracy, wreszcie pobór). Tym samym owa burżuazja spije całą śmietankę na swą własną rzecz w postaci chociażby przetasowań na rynku aktywów, rozbudowy potęgi układów zorientowanych na korupcję, wzmocnienia wreszcie własnych przywilejów m.in. zasłaniając się powodem nieodzownego wręcz utajniania uprzednio ujawnianych danych, budowania wreszcie fortun na podstawie nadzwyczajnych zamówień o profilu wojenno-zbrojeniowym czy zewnętrznej pomocy finansowej z państw trzecich, co pociągnie za sobą katastrofalne powiększenie, już i tak wszechobecnego i skandalicznego podziału oraz wyzysku warstw społecznych.
 
-**IX. Zadania walki komunistycznej**
+## IX. Zadania walki komunistycznej
 
 Przyswojenie teorii marksistowskiej, doświadczeń poprzednich bitew klasowych proletariatu jest warunkiem koniecznym, ale niewystarczającym do walki o utworzenie światowej partii komunistycznej.
 
