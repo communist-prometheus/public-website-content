@@ -9,13 +9,15 @@ lang: it
 newspaper: magazine-1-mai-2026
 ---
 
+# Dalla Manchester di Engels alla Manchester Globale
+
 Nel 1845, il ventiquattrenne Friedrich Engels pubblicò il libro "La situazione della classe operaia in Inghilterra", un libro che Lenin definì _«un terribile atto d’accusa contro il capitalismo e la borghesia»[\[1\]](#footnote-2)_, annoverandolo tra le migliori opere della letteratura socialista mondiale. La scelta dell’oggetto analizzato non fu casuale: la Manchester del XIX secolo rappresentava il primo "laboratorio puro" del capitalismo industriale. Engels documentò con precisione protocollare come un sistema dotato di una capacità di innovazione tecnologica senza precedenti generasse, simultaneamente, miseria assoluta, epidemie e degradazione della vita umana. Era la realtà della soffocante e fuligginosa Coketown di "Tempi difficili" di Charles Dickens e delle viscere infernali di "Germinal" di Émile Zola.
 
 Nel primo volume de "Il Capitale", Karl Marx formulò la legge: «\[…\] _tutti i metodi per la produzione di plusvalore sono al tempo stesso metodi dell’accumulazione e ogni estensione dell’accumulazione diventa, viceversa, mezzo per lo sviluppo di quei metodi. Ne consegue quindi, che nella misura in cui il capitale si accumula, la situazione dell’operaio, qualunque sia la sua retribuzione, alta o bassa, deve peggiorare. La legge infine che equilibra costantemente sovrappopolazione relativa, ossia l’esercito industriale di riserva da una parte e volume e energia dell’accumulazione dall’altra, incatena l’operaio al capitale in maniera più salda che i cunei di Efesto non saldassero alla roccia Prometeo. Questa legge determina un’accumulazione di miseria proporzionata all’accumulazione di capitale. L’accumulazione di ricchezza all’uno dei poli è dunque al tempo stesso accumulazione di miseria, tormento di lavoro, schiavitù, ignoranza, brutalizzazione e degradazione morale al polo opposto ossia dalla parte della classe che produce il proprio prodotto come capitale»[\[2\]](#footnote-3)_.
 
 Un secolo e mezzo dopo, gli apologeti del capitalismo sostengono che questa legge sia obsoleta. Ci parlano dell'avvento della "società post-industriale", del trionfo della classe media e dell'economia della conoscenza. Tuttavia, se dissolviamo il fumo ideologico e applichiamo una rigorosa analisi marxista dell'economia politica alla realtà contemporanea, scopriamo che il capitalismo non ha cambiato la sua natura: ha semplicemente scalato la Manchester del 1845 alle dimensioni dell'intero pianeta. L'economia odierna è un'unica fabbrica globale, dove gli algoritmi digitali fungono da sorveglianti senza anima e le bolle finanziarie agiscono come un polmone d’acciaio per un sistema afflitto da una crisi cronica di sovrapproduzione.
 
-**La Legge Fondamentale e il Grande Divario: Meccanica del "Lungo Declino"**
+## La Legge Fondamentale e il Grande Divario: Meccanica del "Lungo Declino"
 
 Per capire perché il programmatore, il corriere e l'assemblatore di smartphone moderni si trovino sulla stessa barca di classe, dobbiamo rivolgerci a uno degli elementi fondamentali della teoria marxista delle crisi: la legge della caduta tendenziale del saggio di profitto.
 
@@ -121,7 +123,7 @@ Tuttavia, questo processo cela in sé una contraddizione dialettica. Beverly Sil
 
 Leggendo il libro di Silver, osserviamo la legge ferrea che Marx ed Engels descrissero già nel “Manifesto del Partito Comunista”: ovunque il capitale giunga in cerca di braccia obbedienti, genera inevitabilmente lì il proprio becchino — il proletariato. Sebbene si tratti di una classe operaia non ancora istruita dalla scuola del capitalismo, debolmente organizzata e non sufficientemente consapevole dei propri interessi, la crescita esplosiva degli scioperi in Asia negli anni 2010 e 2020 è già la conferma diretta che **il proletariato non è scomparso: ha semplicemente cambiato geografia.**
 
-**Anatomia di una classe frammentata: precariato, migrazione e aristocrazia operaia**
+## Anatomia di una classe frammentata: precariato, migrazione e aristocrazia operaia
 
 Lo sviluppo del capitalismo nel XXI secolo ha creato un sistema di stratificazione interna del proletariato senza precedenti, frammentandolo in strati tra i quali talvolta si verifica un conflitto di interessi. Questo sistema di oppressione a più livelli, costruito dal capitalismo, trova un riflesso nel film del regista sudcoreano Bong Joon-ho “Parasite” (2019), dove la borghesia fluttua in un'astratta casa di vetro, mentre i rappresentanti dei bassifondi, accecati dalla falsa coscienza, si sbranano a morte nei seminterrati allagati per il diritto di servire i padroni.
 
@@ -225,7 +227,7 @@ Il capitale ha utilizzato il lavoro femminile di massa per un dumping generale e
 
 Nel Sud Globale, la femminilizzazione del lavoro ha assunto la forma di super-sfruttamento nelle zone orientate all'esportazione (maquiladoras in Messico, fabbriche tessili in Bangladesh), dove il capitale preferisce assumere giovani donne, considerandole cinicamente una forza-lavoro più "docile" ed economica. Parallelamente, nelle metropoli si sono formate "catene globali della cura" (_global care chains_)[\[10\]](#footnote-11): le donne migranti dal Sud sono costrette a lasciare le proprie famiglie per svolgere, per una miseria, il lavoro riproduttivo (cura di bambini e anziani, pulizie) per la borghesia e l'aristocrazia operaia del Nord. Ciò atomizza e divide ancora più profondamente la classe operaia mondiale, trasferendo i costi della riproduzione sociale sui soggetti più vulnerabili.
 
-**L'industria dell'assurdo: la produttività del male e i "lavori senza senso"**
+## L'industria dell'assurdo: la produttività del male e i "lavori senza senso"
 
 Se il capitalismo è così efficiente, perché milioni di persone provano una totale alienazione e ritengono che il loro lavoro sia privo di significato? Qui la teoria marxista svela l'irrazionalità fondamentale del sistema: al capitalismo non importa nulla del valore d'uso (l'utilità reale), per esso conta solo il valore di scambio (la rotazione del capitale).
 
@@ -263,7 +265,7 @@ Il proletariato viene immerso in uno stato di costante sovraccarico informativo 
 
 Il capitalismo contemporaneo non è l'anti-utopia orwelliana della coercizione fisica diretta, ma la realtà del _Mondo nuovo_ di Aldous Huxley. Agli adepti del capitale oggi non serve bruciare i libri di Marx o Lenin; affogano semplicemente il proletariato atomizzato in un oceano di rumore informativo e di "soma”[\[16\]](#footnote-17) digitale (video brevi), spegnendo il desiderio stesso di una riflessione complessa.
 
-**Il cappio del debito: il credito come strumento di terrore morale**
+## Il cappio del debito: il credito come strumento di terrore morale
 
 Poiché i salari reali stagnano dagli anni '70 e il consumo deve crescere (per realizzare le merci prodotte), il capitale ha sostituito la crescita dei redditi con la crescita dei debiti.
 
