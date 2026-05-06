@@ -4,6 +4,8 @@ description: Who we are and what we fight for.
 lang: en
 ---
 
+# About us
+
 “Communist Prometheus” is a group of revolutionary Marxists who view their activity as part of the worldwide movement of the working class for the overcoming of capitalism. We are grounded in the programmatic core of the “Manifesto of the Communist Party” and proceed from the position that communism is neither a utopia nor an abstract ideal, but a historical necessity arising from the very development of modern society.
 
 We are convinced that capitalism has fulfilled its historical role. Having created the world market and gigantic productive forces, it has at the same time sharpened contradictions to a global scale — from economic crises to imperialist wars. The contemporary era confronts humanity with an alternative: either the preservation of a system that breeds exploitation, inequality and destruction, or its revolutionary overcoming — **communism or barbarism**.
