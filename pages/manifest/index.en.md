@@ -4,8 +4,6 @@ description: Our mission, core principles, and commitment to democratizing knowl
 lang: en
 ---
 
-# Manifesto of the Group "Communist Prometheus"
-
 ## I. Preface
 
 The “Manifesto of the Communist Party” by Karl Marx and Friedrich Engels was the first historical programmatic document of the revolutionary party of the world proletariat. Precisely because of its programmatic character, the theses that constituted its core, its essence, did not pertain directly to the historical moment of its publication, but instead, they described the conditions and set the objectives for a long-term historical horizon within which the communist movement was supposed to unfold. The Communist Prometheus did not emerge in a vacuum: our activity is grounded in the continuity and further development of the programmatic core of the “Manifesto of the Communist Party”.

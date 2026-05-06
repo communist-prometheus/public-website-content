@@ -4,8 +4,6 @@ description: Nuestra misión, principios fundamentales y compromiso con la democ
 lang: es
 ---
 
-# Manifiesto del grupo «Prometeo Comunista»
-
 ## I. Prólogo
 
 El "Manifiesto del Partido Comunista" de Karl Marx y Friedrich Engels fue el primer documento programático histórico del partido revolucionario del proletariado mundial. Y fue precisamente en virtud del carácter programático del manifiesto que las tesis que constituyen su núcleo, su esencia, no se referían directamente a la época de su publicación, sino que describían las condiciones y fijaban los objetivos a largo plazo en los que debía desarrollarse el movimiento comunista. "Prometeo Comunista" no ha surgido de la nada: la base de nuestra actividad es la continuidad y el desarrollo del núcleo programático del "Manifiesto del Partido Comunista".

@@ -4,8 +4,6 @@ description: Kim jesteśmy i o co walczymy.
 lang: pl
 ---
 
-# O nas
-
 „Komunistyczny Prometeusz” to grupa rewolucyjnych marksistów, postrzegających swoją działalność jako część światowego ruchu klasy robotniczej na rzecz przezwyciężenia kapitalizmu. Opieramy się na programowym rdzeniu „Manifestu Partii Komunistycznej” i wychodzimy z założenia, że komunizm nie jest utopią ani abstrakcyjnym ideałem, lecz historyczną koniecznością, wyrastającą z samego rozwoju współczesnego społeczeństwa.
 
 Jesteśmy przekonani, że kapitalizm spełnił już swoją dziejową rolę. Stworzywszy rynek światowy i gigantyczne siły wytwórcze, jednocześnie zaostrzył on sprzeczności do skali globalnej – od kryzysów gospodarczych po wojny imperialistyczne. Współczesna epoka stawia ludzkość przed alternatywą: albo zachowanie systemu rodzącego wyzysk, nierówności i zniszczenie, albo jego rewolucyjne przezwyciężenie – komunizm albo barbarzyństwo.
