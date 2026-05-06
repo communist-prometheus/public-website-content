@@ -4,8 +4,6 @@ description: Nuestra misión, principios fundamentales y compromiso con la democ
 lang: pl
 ---
 
-# Manifest grupy „Komunistyczny Prometeusz"
-
 ## I. Przedmowa
 
 „Manifest Partii Komunistycznej" Karola Marksa i Fryderyka Engelsa był pierwszym historycznym dokumentem programowym rewolucyjnej partii światowego proletariatu. I właśnie ze względu na programowy charakter manifestu, tezy stanowiące jego rdzeń, jego istotę, nie odnosiły się bezpośrednio do epoki jego publikacji, lecz opisywały warunki i wyznaczały cele w perspektywie długofalowej, w której miał się rozwijać ruch komunistyczny. „Komunistyczny Prometeusz" nie powstał w próżni: nasza działalność opiera się na ciągłości i rozwoju programowego rdzenia „Manifestu Partii Komunistycznej".

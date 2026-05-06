@@ -4,8 +4,6 @@ description: Il “Prometeo comunista” è un gruppo di marxisti rivoluzionari 
 lang: it
 ---
 
-# Chi siamo
-
 Il “Prometeo comunista” è un gruppo di marxisti rivoluzionari che considerano la loro attività come una parte del movimento mondiale della classe operaia per superare il capitalismo. Ci basiamo sul nucleo programmatico del “Manifesto del Partito Comunista” e partiamo dal presupposto che il comunismo non è un’utopia né un ideale astratto, ma una necessità storica che nasce dallo stesso sviluppo della società moderna.
 
 Siamo convinti che il capitalismo abbia compiuto il suo ruolo storico. Creando un mercato mondiale e gigantesche forze produttive, ha contemporaneamente acutizzato le contraddizioni su scala globale, dalle crisi economiche alle guerre imperialistiche. L’epoca contemporanea pone l'umanità di fronte a due alternative: o il mantenimento di un sistema che genera sfruttamento, disuguaglianza e distruzione, o il suo superamento rivoluzionario – **comunismo o barbarie.**
