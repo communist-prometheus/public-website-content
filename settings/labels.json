@@ -42,7 +42,8 @@
       "en": "Editorial",
       "ru": "Редакционная статья",
       "it": "Editoriale",
-      "es": "Editorial"
+      "es": "Editorial",
+      "uk": "Редакційна стаття"
     }
   },
   {
@@ -51,7 +52,8 @@
       "en": "International politics",
       "ru": "Международная политика",
       "it": "Politica internazionale",
-      "es": "Política internacional"
+      "es": "Política internacional",
+      "uk": "Міжнародна політика"
     }
   },
   {
@@ -60,7 +62,8 @@
       "en": "Programme",
       "ru": "Программа",
       "it": "Programma",
-      "es": "Programa"
+      "es": "Programa",
+      "uk": "програма"
     }
   },
   {
@@ -69,7 +72,8 @@
       "en": "History",
       "ru": "История",
       "it": "Storia",
-      "es": "Historia"
+      "es": "Historia",
+      "uk": "Історія"
     }
   },
   {
@@ -78,7 +82,8 @@
       "en": "Critique",
       "ru": "Критика",
       "it": "Critica",
-      "es": "Crítica"
+      "es": "Crítica",
+      "uk": "Критика"
     }
   },
   {
@@ -87,7 +92,8 @@
       "en": "Appeal",
       "ru": "Обращения",
       "it": "Appello",
-      "es": "Llamamiento"
+      "es": "Llamamiento",
+      "uk": "Звернення"
     }
   }
 ]
