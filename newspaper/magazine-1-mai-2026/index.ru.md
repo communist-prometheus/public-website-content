@@ -16,6 +16,6 @@ articles:
   - editorial-note
   - about-the-manifesto
   - last-battle-of-the-bolsheviks
-image: ./assets/cover.png
+image: ./assets/cover.ru.png
 ---
 
