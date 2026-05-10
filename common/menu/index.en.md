@@ -1,13 +1,13 @@
 ---
-title: Navigazione
+title: Navigation
 home: Home
 about: About
 blog: Blog
 positions: Positions
-manifest: Manifest
-newspaper: Newspaper
+manifest: Manifesto
+newspaper: Magazine
 menu: Menu
-copyright: "© All rights reserved"
+copyright: © All rights reserved
 lang: en
 ---
 
