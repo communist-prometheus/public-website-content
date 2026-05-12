@@ -1,5 +1,5 @@
 ---
-title: "Il giornale «Prometeo comunista» #1 — Maggio 2026"
+title: Il giornale «Prometeo comunista» №1 — Maggio 2026
 lang: it
 published: true
 publishDate: 2026-05-07

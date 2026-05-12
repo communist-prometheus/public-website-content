@@ -2,14 +2,14 @@
 <FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
 <description>
     <title-info>
-        <genre>antique</genre>
-        <author><nickname>Communist Prometheus</nickname></author>
-        <book-title>Unknown</book-title>
+        <book-title>primo numero della rivista</book-title>
+        <author><first-name>prometeo</first-name><last-name>comunista</last-name></author>
+        <genre>rivista</genre>
         <lang>ru</lang>
-    </title-info>
+        </title-info>
     <document-info><author><nickname>Communist Prometheus</nickname></author><date>2026</date><id>00000000-0000-0000-0000-000000000000</id><version>1.0</version></document-info>
     <publish-info>
-    </publish-info>
+    <year>2026</year></publish-info>
 </description>
 <body>
 <section>
