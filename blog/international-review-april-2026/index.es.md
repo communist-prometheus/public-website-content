@@ -3,7 +3,7 @@ title: Revista internacional, abril de 2026
 lang: es
 description: "Mientras los noticieros hablan de una pronta estabilización, el sistema atraviesa una profunda crisis estructural: los mercados están saturados de deudas sin respaldo, las nuevas tecnologías privan de sus antiguas ganancias a ciertos sectores tradicionales mientras generan márgenes exorbitantes para otros, y los Estados, como era de esperar, se ven arrastrados a guerras por los recursos. Sin embargo, no basta con diagnosticar al capitalismo contemporáneo; es imperativo comprender por qué el movimiento obrero se encuentra hoy tan débil y fragmentado y, sobre todo, por dónde deben empezar los comunistas su trabajo práctico hoy mismo para organizar a las masas de cara a las inminentes convulsiones sociales, en lugar de limitarse a la espera pasiva de estallidos espontáneos."
 category: international
-published: true
+published: false
 publishDate: 2026-05-08
 ---
 
