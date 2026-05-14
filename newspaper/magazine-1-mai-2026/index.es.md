@@ -1,5 +1,5 @@
 ---
-title: La revista «Prometeo comunista» №1 — Mayo 2026
+title: La revista «El Prometeo comunista» №1 — Mayo 2026
 lang: es
 published: true
 publishDate: 2026-05-07
