@@ -1,9 +1,9 @@
 ---
-title: Revista internacional, abril de 2026
+title: Panorama internacional, abril de 2026
 lang: es
 description: "Mientras los noticieros hablan de una pronta estabilización, el sistema atraviesa una profunda crisis estructural: los mercados están saturados de deudas sin respaldo, las nuevas tecnologías privan de sus antiguas ganancias a ciertos sectores tradicionales mientras generan márgenes exorbitantes para otros, y los Estados, como era de esperar, se ven arrastrados a guerras por los recursos. Sin embargo, no basta con diagnosticar al capitalismo contemporáneo; es imperativo comprender por qué el movimiento obrero se encuentra hoy tan débil y fragmentado y, sobre todo, por dónde deben empezar los comunistas su trabajo práctico hoy mismo para organizar a las masas de cara a las inminentes convulsiones sociales, en lugar de limitarse a la espera pasiva de estallidos espontáneos."
 category: international
-published: false
+published: true
 publishDate: 2026-05-08
 ---
 
@@ -145,61 +145,62 @@ Karl Marx anticipó genialmente esta fase de desarrollo del capitalismo,
 en la que el capital excedente se precipita hacia las maquinaciones
 financieras:
 
-*«La superproducción de capital no significa nunca otra cosa que la
-superproducción de medios de producción --medios de trabajo y medios de
-subsistencia-- que pueden funcionar como capital, es decir, que pueden
-emplearse para la explotación del trabajo con arreglo a una cuota dada
-de explotación; pero la baja de esta cuota de explotación por debajo de
-un punto dado provoca perturbaciones y paralizaciones del proceso de
-producción capitalista, crisis y destrucción de capital. No hay ninguna
-contradicción en el hecho de que esta superproducción de capital vaya
-acompañada de una superpoblación relativa más o menos considerable. Las
-mismas circunstancias que han potenciado la fuerza productiva del
-trabajo, aumentado la masa de los productos mercantiles, ampliado los
-mercados, acelerado la acumulación del capital, tanto en masa como en
-valor, y reducido la cuota de ganancia, han engendrado y siguen
-engendrando constantemente una superpoblación relativa, una
-superpoblación de obreros que el capital excedente no emplea a causa del
-bajo nivel de explotación del trabajo a que únicamente podría
-emplearlos, o por lo menos a causa de la baja cuota de ganancia que
-rendirían con un nivel dado de explotación.*
+*«Una sobreproducción de capital jamás significa otra cosa que una
+sobreproducción de medios de producción --medios de trabajo y medios de
+subsistencia-- que puedan actuar como capital, es decir que puedan ser
+empleados para la explotación del trabajo con un grado de explotación
+dado; pues la disminución de ese grado de explotación por debajo de un
+punto dado provoca perturbaciones y paralizaciones del proceso de
+producción capitalista, crisis y destrucción de capital. No constituye
+una contradicción el que esta sobreproducción de capital esté acompañada
+por una sobrepoblación relativa más o menos grande. Las mismas
+circunstancias que han elevado la fuerza productiva del trabajo,
+aumentado la masa de los productos mercantiles, expandido los mercados,
+acelerado la acumulación del capital, tanto respecto a su masa como a su
+valor, y rebajado la tasa de ganancia, las mismas circunstancias han
+generado una sobrepoblación relativa y la generan constantemente, una
+sobrepoblación de obreros que el capital excedente no emplea a causa del
+bajo grado de explotación del trabajo con el cual únicamente podría
+empleársela, o cuando menos a causa de la baja tasa de ganancia que
+arrojaría en caso de un grado de explotación dado.*
 
-*Si se exporta capital al extranjero, ello no ocurre porque
-absolutamente no se lo pueda ocupar en el interior. Ocurre porque en el
-extranjero se lo puede ocupar con una cuota de ganancia más alta.»*[^5]
+*Si se envía capital al exterior, ello no ocurre porque sea
+absolutamente imposible ocuparlo en el interior. Sucede porque en el
+exterior puede ocupárselo con una tasa más elevada de ganancia.»*[^5]
 
 Y más adelante, al analizar el capital ficticio y el sistema de crédito,
 Marx subraya la inevitabilidad de que este proceso se transforme en pura
 especulación ante la caída de la rentabilidad:
 
-*«Si el sistema de crédito aparece como la palanca principal de la
-superproducción y de la especulación excesiva en el comercio, ello se
-debe únicamente a que el proceso de reproducción, elástico por su
-naturaleza, se fuerza aquí hasta sus límites extremos, y se fuerza
-porque una gran parte del capital social es empleado por los no
-propietarios de este, quienes, por consiguiente, ponen manos a la obra
-con un espíritu muy distinto al del propietario que, en tanto funciona
-personalmente, sopesa medrosamente los límites de su capital privado.
-Esto solo demuestra que la valorización del capital basada en el
-carácter antitético de la producción capitalista solo permite el libre
-desarrollo real hasta cierto punto y, por tanto, en la realidad
-constituye una traba inmanente y un límite a la producción, que el
-sistema de crédito rompe de continuo. Por consiguiente, el crédito
-acelera el desarrollo de las fuerzas productivas materiales y la
-creación del mercado mundial, bases materiales de la nueva forma de
-producción que el modo de producción capitalista tiene la misión
-histórica de instaurar hasta cierto grado de desarrollo. Al mismo
-tiempo, el crédito acelera los estallidos violentos de esta
-contradicción, las crisis, y por lo tanto los elementos de disolución
-del antiguo modo de producción.*
+*«Si el sistema crediticio aparece como palanca principal de la
+sobreproducción y de la superespeculación en el comercio, ello sólo
+ocurre porque en este caso se fuerza hasta su límite extremo el proceso
+de la reproducción, elástico por su naturaleza, y porque se lo fuerza a
+causa de que una gran parte del capital social resulta empleado por los
+no propietarios del mismo, quienes en consecuencia ponen manos a la obra
+de una manera totalmente diferente a como lo hace el propietario que
+evalúa temerosamente los límites de su capital privado, en la medida en
+que actúa personalmente. De esto sólo se desprende que la valorización
+del capital fundada en el carácter antagónico de la producción
+capitalista no permite el libre y real desarrollo más que hasta cierto
+punto, es decir que de hecho configura una traba y una barrera
+inmanentes de la producción, constantemente quebrantadas por el sistema
+crediticio. Por ello, el sistema de crédito acelera el desarrollo
+material de las fuerzas productivas y el establecimiento del mercado
+mundial, cuya instauración hasta cierto nivel en cuanto fundamentos
+materiales de la nueva forma de producción constituye la misión
+histórica del modo capitalista de producción. Al mismo tiempo, el
+crédito acelera los estallidos violentos de esta contradicción, las
+crisis, y con ello los elementos de disolución del antiguo modo de
+producción.*
 
-*El carácter dual inmanente al sistema de crédito: por una parte,
-desarrollar el resorte de la producción capitalista, el enriquecimiento
-mediante la explotación del trabajo ajeno, hasta convertirlo en el más
-puro y colosal sistema de juego y fraude, y restringir cada vez más el
-número de los pocos que explotan la riqueza social; y por otra parte,
-constituir la forma de transición hacia un nuevo modo de
-producción.»*[^6]
+*Las características bifacéticas inmanentes al sistema crediticio --que
+por una parte es fuerza impulsora de la producción capitalista, del
+enriquecimiento por explotación de trabajo ajeno, hasta convertirlo en
+el más puro y colosal sistema de juego y fraude, restringiendo cada vez
+más el número de los pocos individuos que explotan la riqueza social,
+mientras que por la otra constituye la forma de transición hacia un
+nuevo modo de producción.»*[^6]
 
 Es precisamente esta necesidad de "destruir" o desvalorizar una parte
 del capital acumulado para salvar el resto lo que constituye la base
@@ -258,31 +259,30 @@ En esto consiste la contradicción suprema y letal del capital, prevista
 por Marx en los *Grundrisse* ("Elementos fundamentales para la crítica
 de la economía política"):
 
-*«El capital mismo es la contradicción en proceso, por el hecho de que
-tiende a reducir a un mínimo el tiempo de trabajo, mientras que por otra
-parte pone al tiempo de trabajo como única medida y fuente de la
+*«El capital mismo es la contradicción en proceso, \[por el hecho de\]
+que tiende a reducir a un mínimo el tiempo de trabajo, mientras que por
+otra parte pone al tiempo de trabajo como única medida y fuente de la
 riqueza. Disminuye, pues, el tiempo de trabajo en la forma de tiempo de
-trabajo necesario, para aumentarlo en la forma de tiempo de trabajo
-excedente; pone por tanto, en medida creciente, el tiempo de trabajo
-excedente como condición --cuestión de vida o muerte-- para el
-necesario. Por un lado, despierta a la vida todos los poderes de la
-ciencia y de la naturaleza, así como de la cooperación y del intercambio
-sociales, para hacer que la creación de la riqueza sea (relativamente)
-independiente del tiempo de trabajo empleado en ella. Por el otro lado,
-se propone medir con el tiempo de trabajo esas gigantescas fuerzas
-sociales creadas de esta suerte y reducirlas a los límites requeridos
-para que el valor ya creado se conserve como valor. Las fuerzas
-productivas y las relaciones sociales --unas y otras fases diversas del
-desarrollo del individuo social-- se le aparecen al capital únicamente
-como medios, y no son para él más que medios para producir fundándose en
-su mezquina base. De hecho, sin embargo, constituyen las condiciones
-materiales para hacer saltar a esa base por los aires.*
+trabajo necesario, para aumentarlo en la forma del trabajo excedente;
+pone por tanto, en medida creciente, el trabajo excedente como condición
+--question de vie et de mort-- del necesario. Por un lado despierta a la
+vida todos los poderes de la ciencia y de la naturaleza, así como de la
+cooperación y del intercambio sociales, para hacer que la creación de la
+riqueza sea (relativamente) independiente del tiempo de trabajo empleado
+en ella. Por el otro lado se propone medir con el tiempo de trabajo esas
+gigantescas fuerzas sociales creadas de esta suerte y reducirlas a los
+límites requeridos para que el valor ya creado se conserve como valor.
+Las fuerzas productivas y las relaciones sociales --unas y otras
+aspectos diversos del desarrollo del individuo social-- se le aparecen
+al capital únicamente como medios, y no son para él más que medios para
+producir fundándose en su mezquina base. In fact, empero, constituyen
+las condiciones materiales para hacer saltar a esa base por los aires.*
 
-'Una nación es verdaderamente rica si en vez de 12 horas se trabajan 6.
-La riqueza *(real)* no es el mando sobre el tiempo de plustrabajo, sino
-el tiempo disponible, aparte del empleado en la producción inmediata,
-para cada individuo y para toda la sociedad.' \[The Source and Remedy of
-the National Difficulties, Londres, 1821, p. 6\].*»*[^8]
+*«Una nación es verdaderamente rica cuando en vez de 12 horas se
+trabajan 6. Wealth no es disposición de tiempo de plustrabajo» (riqueza
+efectiva), «sino disposable time, aparte el usado en la producción
+inmediata, para cada individuo y toda la sociedad». \[The Source and
+Remedy, etc., 1821, p. 6.\]*.*»*[^8]
 
 Objetivamente, la Inteligencia Artificial sienta las bases materiales
 para una sociedad de abundancia absoluta. Pero para sobrevivir, el
@@ -302,26 +302,26 @@ un punto crítico. El imperialismo estadounidense ha pasado a un
 proteccionismo descarado. Pero aquí también se manifiesta nítidamente la
 profunda fractura de su burguesía nacional. Reducir la actual escisión
 del capital estadounidense a la primitiva dicotomía de
-"globalistas-financieros" frente a "patriotas-industriales" implica
-utilizar unas gafas propias de finales del siglo XX. Hoy en día, la
-línea de falla no discurre tanto entre sectores, sino *dentro* de las
-propias cadenas globales de valor, y está determinada por la etapa de
-dichas cadenas en la que se encuentra cada corporación en particular. El
-capitalismo estadounidense ha topado con una contradicción fundamental:
-la lógica de la maximización de beneficios (que exige mano de obra
-barata y mercados abiertos, primordialmente en Asia) ha entrado en
-conflicto directo con la lógica de preservación de la hegemonía
-internacional y militar (que exige el control sobre las tecnologías y la
-"reindustrialización").[^9] La "doctrina Trump" es la herramienta de la
-que se sirve esta fracción para extraer plusvalía. La ruptura de las
-cadenas comerciales con Asia convierte a América Latina en una
-gigantesca maquiladora. Esto se evidencia claramente en la presión
-política sin precedentes que ejerce Washington sobre Perú para limitar
-el control chino sobre el nuevo megapuerto de aguas profundas de
-Chancay, así como en el chantaje diplomático a Brasil y Argentina
-dirigido a expulsar a *Huawei* del sector de las redes 5G. En los
-propios EE. UU., la consabida histeria antimigratoria cumple la función
-de conformar un ejército industrial de reserva carente de todo derecho.
+"globalistas-financieros" frente a "patriotas-industriales" implica la
+óptica propias de finales del siglo XX. Hoy en día, la línea de falla no
+discurre tanto entre sectores, sino *dentro* de las propias cadenas
+globales de valor, y está determinada por la etapa de dichas cadenas en
+la que se encuentra cada corporación en particular. El capitalismo
+estadounidense ha topado con una contradicción fundamental: la lógica de
+la maximización de beneficios (que exige mano de obra barata y mercados
+abiertos, primordialmente en Asia) ha entrado en conflicto directo con
+la lógica de preservación de la hegemonía internacional y militar (que
+exige el control sobre las tecnologías y la "reindustrialización").[^9]
+La "doctrina Trump" es la herramienta de la que se sirve esta fracción
+para extraer plusvalía. La ruptura de las cadenas comerciales con Asia
+convierte a América Latina en una gigantesca maquiladora. Esto se
+evidencia claramente en la presión política sin precedentes que ejerce
+Washington sobre Perú para limitar el control chino sobre el nuevo
+megapuerto de aguas profundas de Chancay, así como en el chantaje
+diplomático a Brasil y Argentina dirigido a expulsar a *Huawei* del
+sector de las redes 5G. En los propios EE. UU., la consabida histeria
+antimigratoria cumple la función de conformar un ejército industrial de
+reserva carente de todo derecho.
 
 El centro de gravedad de la economía mundial se ha desplazado a Asia.
 China, asfixiada por un colosal exceso de capital acumulado, ha
@@ -536,9 +536,9 @@ la ulterior extinción del Estado.
 
 ### 
 
-### Anexo 1
+### **Anexo 1**
 
-#### LA REPRESIÓN FINANCIERA
+#### **LA REPRESIÓN FINANCIERA**
 
 Si un país (pongamos por caso, Turquía o Argentina) acarrea una deuda
 externa denominada en dólares estadounidenses, la devaluación de su
@@ -604,9 +604,9 @@ para la economía o declarar suspensiones de pagos en cadena.
 
 ### 
 
-### Anexo 2
+### **Anexo 2**
 
-#### LA CONTRADICCIÓN DIALÉCTICA DEL SISTEMA CAPITALISTA
+#### **LA CONTRADICCIÓN DIALÉCTICA DEL SISTEMA CAPITALISTA**
 
 Desde la óptica teórica del marxismo, el trabajo vivo constituye la
 fuente exclusiva de plusvalía. En consecuencia, al expulsar a los
@@ -660,7 +660,7 @@ Traducido al lenguaje de la economía política marxista, esto evidencia
 un alza brutal en la cuota de plusvalía (o tasa de explotación). A pesar
 de la caída de la masa global del capital variable (***v***, el volumen
 de la nómina salarial), la plantilla que conserva el empleo genera una
-mayor cantidad de plusvalía (***p***) por unidad de tiempo, espoleada
+mayor cantidad de plusvalía (***m***) por unidad de tiempo, espoleada
 por el estrés, las horas extras no remuneradas y el pánico al despido.
 Este brusco salto en la explotación neutraliza transitoriamente el
 impacto negativo provocado por el incremento de la composición orgánica
@@ -837,45 +837,28 @@ la coerción inexorable de acabar repudiados y excluidos de participar y
 pujar en los grandiosos presupuestos militarizados del Estado nacional
 estadounidense.
 
-El hecho de que la estructura gubernamental en Washington haya irrumpido
-de manera parcialmente autónoma --como árbitro frente al influjo
-particular y egoísta que esgrimen las dispares y antagónicas camarillas
-de los emporios del dólar-- no halla su respuesta en determinismos
-esotéricos sino en las propias coyunturas acuciantes que hoy por hoy
-corroen la matriz del capitalismo internacional, acrecentando
-exponencialmente los cruces de hostilidades latentes entre esas
-oligarquías sectoriales.
+El hecho de que el Estado estadounidense haya comenzado a actuar de
+manera relativamente autónoma frente a los intereses de fracciones
+individuales del capital se debe a los cambios que se observan en la
+economía mundial. Es precisamente esto lo que agudiza la lucha entre las
+fracciones.
 
-Los altos estratos de la dirección estatal y sus cúpulas partidistas de
-Norteamérica (sin mediar grandes abismos, ni ideológicos ni
-programáticos, tanto por parte del ala republicana como por los
-estrategas del arco demócrata) atisbaron con lucidez un escenario
-alarmante: de perpetuar una inhibición general en aras de un mercado
-librecambista regido por las pulsiones individualistas sin trabas (en
-beneficio de una fracción rentista puramente transnacional adicta a
-exprimir a costa de todo el mercado global), se avocaría
-indiscutiblemente a la liquidación acelerada de su musculatura y nervio
-puramente industrial, el cercenamiento severo a su capacidad autárquica
-de producción logística militar, y la pérdida de destrezas para proveer
-materiales geoestratégicos o la manufactura avanzada de
-microprocesadores. Carentes de semejante plataforma, perece por
-añadidura la cimentación para hacer prevalecer el estatus despótico del
-dólar y el imperio en la hegemonía global. Esta, y no la magnanimidad
-soberana, fue la razón estructural inesquivable que hizo recular a la
-dirección del imperio hegemónico norteamericano para decretar y
-dictaminar la actual clausura proteccionista, instaurándola, por ende,
-de urgencia como profilaxis para blindar su amenazada supervivencia
-productiva. Como es lógico de inferir de esta reorganización productiva
-de calado mundial pergeñada con cargo a las multinacionales
-norteamericanas (fuerzo deliberado para replegar toda la infraestructura
-operativa foránea, la renuncia a cuotas expansivas para asegurar su
-integridad soberana, la deslocalización compulsiva y relocalización de
-filiales en feudos patrios que exigen costes de jornal de operarios
-considerablemente desorbitados), las oligarquías que ven mutiladas sus
-prerrogativas económicas con el pretexto de los apremios patrios
-protagonizarán feroces actos de rebelión; traduciendo de esta manera
-toda la agitación a la crisis turbulenta e indeleble polarización
-belicosa enquistada en el corazón político del mismísimo Capitolio.
+La cúpula política de EE. UU. (tanto republicanos como demócratas) ha
+comprendido que, si se deja todo a merced del libre mercado (donde
+resulta vencedor el sector transnacional que se beneficia de la
+globalización), EE. UU. perderá definitivamente su base industrial, su
+capacidad para producir armamento, chips de vanguardia y materiales
+críticos. Y sin esto, no hay con qué respaldar el estatus de hegemón
+mundial ni la fuerza del propio dólar. Por lo tanto, el imperialismo
+estadounidense no ha recurrido al proteccionismo por gusto, sino como
+una medida de emergencia para salvar su base material. En la actualidad,
+el Estado obliga literalmente a las corporaciones transnacionales a
+subsidiar la seguridad nacional (mediante la renuncia a mercados
+lucrativos, la ruptura de cadenas logísticas baratas y el traslado de
+fábricas de vuelta "a casa", donde la mano de obra es más cara). Como es
+natural, las fracciones del capital que sufren pérdidas por esta
+reestructuración oponen una resistencia desesperada, lo cual se expresa
+en el caos político y la polarización en Washington.
 
 [^1]: \- Estructura de la deuda para el primer trimestre de 2024 (según
     datos del Global Debt Monitor, un informe periódico del Instituto de
@@ -914,7 +897,7 @@ belicosa enquistada en el corazón político del mismísimo Capitolio.
     dinero fiduciario seguirá siendo una herramienta oculta para
     gestionar esta burbuja.
 
-[^2]: \- Véase el apéndice 1.
+[^2]: \- Véase el аnexo 1.
 
 [^3]: \- Estanflación (de "estancamiento" + "inflación"): es un estado
     de la economía en el que ocurren simultáneamente tres procesos
@@ -939,15 +922,18 @@ belicosa enquistada en el corazón político del mismísimo Capitolio.
     relacionada en torno al Estrecho de Ormuz podrían cambiar la
     situación.
 
-[^5]: \- Marx, Karl. *El Capital. Crítica de la economía política*. Tomo
-    III, Vol. 6, Cap. XV.
+[^5]: \- K. Marx, El Capital. Crítica de la economía política, Libro
+    terzero: El proceso de producción del capital. México: Siglo XXI
+    Editores, 2008, p. 328-329.
 
-[^6]: \- Marx, Karl. *El Capital. Crítica de la economía política*. Tomo
-    III, Vol. 6, Cap. XXVII.
+[^6]: \- K. Marx, El Capital. Crítica de la economía política, Libro
+    terzero: El proceso de producción del capital. México: Siglo XXI
+    Editores, 2008, p. 567-568.
 
-[^7]: \- Véase el apéndice 2.
+[^7]: \- Véase el аnexo 2.
 
 [^8]: \- Marx, Karl. *Elementos fundamentales para la crítica de la
-    economía política (Grundrisse) 1857-1858*. Cuaderno VII.
+    economía política (Grundrisse) 1857-1858*. Volumen 2. México: Siglo
+    XXI Editores, 2007, P. 229.
 
-[^9]: \- Véase el apéndice 3.
+[^9]: \- Véase el аnexo 3.
