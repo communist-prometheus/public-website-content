@@ -6,6 +6,7 @@ blog: Blog
 positions: Posizioni
 manifest: Manifesto
 newspaper: Rivista
+links: Link
 menu: Menu
 copyright: © Tutti i diritti riservati
 lang: it
