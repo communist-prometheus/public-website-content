@@ -34,6 +34,6 @@ En su obra _La fábula de las abejas_ (1705), Mandeville había demostrado ya la
 
 _«Lo que llamamos el mal en este mundo, el mal moral tanto como el natural, es el gran principio que hace de nosotros seres sociales, es la base sólida, la vida y el sostén de todas las industrias y profesiones, sin excepción; es aquí donde debemos buscar el verdadero origen de todas las artes y ciencias, y en cuanto el mal dejase de existir, la sociedad se iría necesariamente a pique, si es que no se disolvía por completo»._
 
-Sólo que, naturalmente, Mandeville era mucho más audaz y más honrado que los apólogos filisteos de la sociedad burguesa.
+Sólo que, naturalmente, Mandeville era mucho más audaz y más honrado que los apólogos filisteos de la sociedad burguesa.[^1]
 
-1.  \- Marx, K. (1980). _Teorías sobre la plusvalía, I (Tomo IV de “El Capital”)_. (W. Roces, Trad.). México: Fondo de Cultura Económica. [↑](#endnote-ref-1)
+[^1]: Marx, K. (1980). _Teorías sobre la plusvalía, I (Tomo IV de “El Capital”)_. (W. Roces, Trad.). México: Fondo de Cultura Económica.

@@ -22,6 +22,6 @@ In his Fable of the Bees (1705) Mandeville had already shown that every possible
 
 _“That what we call Evil in this World, Moral as well as Natural, is the grand Principle that makes us Sociable Creatures, the solid Basis, the Life and Support of all Trades and Employments without exception_ \[…\] _there we must look for the true origin of all Arts and Sciences; and_ \[…\] _the moment, Evil ceases, the Society must he spoil’d if not totally dissolve’d”_ \[2nd edition, London, 1723, p. 428\].
 
-Only Mandeville was of course infinitely bolder and more honest than the philistine apologists of bourgeois society.
+Only Mandeville was of course infinitely bolder and more honest than the philistine apologists of bourgeois society.[^1]
 
-1.  Source: “Theories of Surplus Value” (1863). [↑](#footnote-ref-2)**Digression: (On Productive Labour)**
+[^1]: Source: “Theories of Surplus Value” (1863), Digression on Productive Labour.

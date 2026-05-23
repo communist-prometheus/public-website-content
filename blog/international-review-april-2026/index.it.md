@@ -206,7 +206,7 @@ Il fatto che lo Stato americano abbia iniziato ad agire in modo relativamente au
 
 La classe politica dirigente degli Stati Uniti (sia repubblicani che democratici) ha compreso: se si lascia tutto al libero mercato (dove vince quel settore transnazionale a cui conviene la globalizzazione), gli USA perderanno definitivamente la base industriale, la capacità di produrre armi, chip avanzati e materiali critici. E senza questo, non c’è nulla con cui sostenere lo status di egemone mondiale e la forza del dollaro stesso. Pertanto, l’imperialismo americano è passato al protezionismo non per scelta, ma come misura di emergenza per salvare la propria base. Lo Stato ora costringe letteralmente le multinazionali a sussidiare la sicurezza nazionale (attraverso la rinuncia a mercati redditizi, la rottura di catene logistiche a basso costo e il trasferimento delle fabbriche “a casa”, dove la forza lavoro è più costosa). Naturalmente, le frazioni del capitale che subiscono perdite da questa ristrutturazione oppongono una resistenza disperata, il che si esprime nel caos politico e nella polarizzazione a Washington.
 
-[^1]  \- Struttura del debito nel primo trimestre del 2024 (secondo il Global Debt Monitor – rapporto periodico dell’Institute of International Finance):
+[^1]: Struttura del debito nel primo trimestre del 2024 (secondo il Global Debt Monitor – rapporto periodico dell’Institute of International Finance):
     
     **Mercati “sviluppati”** (USA, Giappone, paesi europei): ~$209,7 trilioni (circa 2/3 del debito totale). Qui il debito cresce prevalentemente a causa dell’indebitamento pubblico.
     
@@ -224,20 +224,20 @@ La classe politica dirigente degli Stati Uniti (sia repubblicani che democratici
     
     L’economia mondiale si è trovata in un corridoio stretto. La politica monetaria restrittiva e gli alti tassi di interesse (nel tentativo di sconfiggere l’inflazione) rendono il servizio di questi 315 trilioni matematicamente impossibile nel lungo periodo; pertanto, gli economisti concordano sul fatto che il deprezzamento inflattivo delle valute fiat rimarrà uno strumento occulto di gestione di questa bolla.
     
-[^2]  \- _Cfr._ Appendice 1.
+[^2]: _Cfr._ Appendice 1.
     
-[^3]  \- La stagflazione (da “stagnazione” + “inflazione”): è una condizione economica in cui si verificano contemporaneamente tre processi distruttivi: declino della produzione o crescita economica nulla (stagnazione), crescita continua dei prezzi (inflazione), aumento della disoccupazione e calo dei redditi reali della popolazione.
+[^3]: La stagflazione (da “stagnazione” + “inflazione”): è una condizione economica in cui si verificano contemporaneamente tre processi distruttivi: declino della produzione o crescita economica nulla (stagnazione), crescita continua dei prezzi (inflazione), aumento della disoccupazione e calo dei redditi reali della popolazione.
     
     Per la scienza economica borghese (in particolare il keynesismo), la stagflazione è stata a lungo considerata un paradosso. La logica classica ipotizzava che i prezzi crescessero solo in caso di “surriscaldamento” dell’economia (quando le persone hanno molto denaro e acquistano attivamente), mentre durante una crisi e un calo della produzione i prezzi dovrebbero scendere (deflazione). La stagflazione rompe questo meccanismo e spinge la regolamentazione statale in un vicolo cieco: i tentativi delle banche centrali di soffocare l’inflazione con alti tassi di interesse finiscono per dare il colpo di grazia all’industria, mentre i tentativi di salvare le fabbriche con prestiti a basso costo portano all’iperinflazione.
     
-[^4]  \- La guerra tra USA e Israele contro l’Iran e la situazione a essa legata attorno allo Stretto di Hormuz potrebbe alterare radicalmente questo scenario.
+[^4]: La guerra tra USA e Israele contro l’Iran e la situazione a essa legata attorno allo Stretto di Hormuz potrebbe alterare radicalmente questo scenario.
     
-[^5]  \- Marx K. Il Capitale. Libro III. Sezione III. Capitolo 15. III // Criticamente. URL: https://www.criticamente.com/frameset\_800.htm
+[^5]: Marx K. Il Capitale. Libro III. Sezione III. Capitolo 15. III // Criticamente. URL: https://www.criticamente.com/frameset\_800.htm
     
-[^6] \- Ibidem. Capitolo 27.
+[^6]: Ibidem. Capitolo 27.
     
-[^7]  \- _Cfr._ Appendice 2.
+[^7]: _Cfr._ Appendice 2.
     
-[^8]  \- Marx, K. Grundrisse (Il Capitale) / K. Marx // Criticamente. – URL: https://www.criticamente.com/marxismo/grundrisse/Marx\_Karl\_-Grundrisse\_3c-\_Il\_Capitale.pdf
+[^8]: Marx, K. Grundrisse (Il Capitale) / K. Marx // Criticamente. – URL: https://www.criticamente.com/marxismo/grundrisse/Marx\_Karl\_-Grundrisse\_3c-\_Il\_Capitale.pdf
     
-[^9]  \- _Cfr._ Appendice 3.
+[^9]: _Cfr._ Appendice 3.

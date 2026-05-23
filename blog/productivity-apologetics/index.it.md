@@ -24,6 +24,6 @@ Le influenze del delinquente sullo sviluppo della forza produttiva possono esser
 
 _«Ciò che in questo mondo chiamiamo il male, tanto quello morale quanto quello naturale, è il grande principio che fa di noi degli esseri sociali, è la solida base, la vita e il sostegno di tutti i mestieri e di tutte le occupazioni senza eccezione_ \[...\]_; è in esso che dobbiamo cercare la vera origine di tutte le arti e di tutte le scienze; e_ \[...\] _nel momento in cui il male venisse a mancare, la società sarebbe necessariamente devastata se non interamente dissolta»_ \[Mandeville, “The Fable of the Bees”, V ediz., London, 1728, p. 428.\].
 
-Senonché il Mandeville era, naturalmente, infinitamente più audace e più onesto degli apologeti filistei della società borghese.
+Senonché il Mandeville era, naturalmente, infinitamente più audace e più onesto degli apologeti filistei della società borghese.[^1]
 
-1.  \- Cfr. “Teorie sul plusvalore (“CAPITALE” IV vol.)”, scrito dal gennaio del 1862 al luglio 1863 (Marx Engels Opere. ed. LC. Vol 33, p. 443-444). [↑](#footnote-ref-1)
+[^1]: Cfr. “Teorie sul plusvalore (“CAPITALE” IV vol.)”, scrito dal gennaio del 1862 al luglio 1863 (Marx Engels Opere. ed. LC. Vol 33, p. 443-444).
