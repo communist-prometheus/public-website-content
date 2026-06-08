@@ -8,6 +8,8 @@ lang: en
 publishDate: 2026-05-17
 ---
 
+**_Correspondence with a Comrade_**
+
 Our “Manifesto” has not gone without response. No sooner had we circulated it among our supporters for discussion than we began receiving letters with comments and questions.
 
 This fact alone indicates that the spectre of communism is stirring in the depths of our class, that there exists a need for the theoretical comprehension of the history and present condition of class struggle, as well as a desire to define the tasks of the proletarian vanguard. It is precisely for this reason that, from the very first issue of our journal, we are opening a column titled “Correspondence with a Comrade”, in which we intend to conduct a dialogue both with proletarian revolutionary organisations and with individual comrades of our class.
