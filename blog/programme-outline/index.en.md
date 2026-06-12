@@ -1,5 +1,5 @@
 ---
-title: Introduction to the “Draft Programme” of the Internationalist Communist Party 1944
+title: Introduction and the “Draft Programme” of the Internationalist Communist Party 1944
 description: The “Communist Prometheus” group does not consider itself a “world communist party or even its sole embryo” and views its activity “as part of the practical movement towards communism, as a struggle for the creation of this party”. Based on this premise, we consider it fundamental to exchange experiences and conduct discussions with other internationalist communist organisations. “The Draft Programme of the Internationalist Communist Party” and the accompanying introduction, specifically written by the comrades of Battaglia Comunista, constitute the first in a series of publications of documents, articles, and materials from other communist organisations. We consider the in-depth study of these texts an integral part of the theoretical heritage of Marxism and a crucial element in the formation of the class consciousness of the world proletariat.
 category: programme
 pubDate: 2026-04-30
@@ -90,3 +90,357 @@ This, of course, is a reference to Vercesi, a leading figure in the Fraction who
     _«The Party neither entertained nor fostered illusions in this regard \[the onset of a revolutionary phase\]; it foresaw, at the end of the conflict, the emergence of an openly reactionary historical situation, and prepared itself to speak out in it with firmness and courage, just as it had been able to do so against all odds and against all adversaries in the midst of the world war.»_
     
     And Aldo Lecci, at the 1948 congress, expressed himself as follows:«_However, he \[Vercesi\] claimed to have been mistaken in 1945 in Turin when he believed in a revival of the revolutionary course, whereas today he realises that throughout the world the proletarian class is allied with capitalism and that everything we do can only benefit one or the other imperialist bloc \[…\]. Comrade Vercesi’s speech today conceals an attempt to reduce the party to a club of supermen, of self-proclaimed Marxist scientists, who feel superior and disdain to engage with the reality in which the masses live \[…\]. These elements, who seek to hide their pessimism behind our supposed optimism, come—politically inactive—to throw grandiloquent phrases amongst us without making any positive contribution to the positions we defend and advocate, without theoretical or political refutations of our ‘errors’ and deviations. The comrades who have worked with us know that we have never deluded ourselves nor have we ever deluded anyone with fixed positions and perspectives. We have always been firm and precise; we have always told our comrades: “Recruit with caution; dismiss anyone who shows political incomprehension; we may have to downsize further; the situation does not allow for the development of a class-based party; the task is to train the cadres, the backbone of the party.»_ (Reports: Turin conference of 1945, Florence congress of 1948, p.16)
+    
+    
+    **Draft Programme of the Internationalist Communist Party**
+
+***This draft programme is based on our basic programme, the "Rome
+Theses", developed and approved at the Second Congress of the Communist
+Party of Italy (1922).***
+
+**I. Situation and Prospects**
+
+The war, in its frantic and brutal final phase, demonstrates, alongside
+the decline of German power, the victorious assertion of the Allied
+powers, with the United States and Russia clearly enjoying military and
+political superiority. Thus emerges the prospect for a democratic peace,
+ensuring, above all, the United States' undisputed economic and
+financial hegemony over the world. This could mean not only victory in
+the war, but also a victorious peace, a consolidation, that is, of
+capitalism that would thus have been able to once again cut in front of
+the proletariat, which saw in the war's open crisis an opportunity for
+the revolutionary movement to succeed. The validity of this hypothesis,
+since the war is still ongoing, and the unpredictable may still come
+into play, may not be fully confirmed by the course of events, but, in
+the current state of the crisis and given the elements available,
+nothing suggests that it might. One thing is certain, though: the
+Allies' crushing victory will significantly strengthen the resistance
+front of global capitalism and narrow the objective possibilities for
+proletarian revolution. The correctness of this analysis is confirmed by
+the fact that a part of the proletariat "feels" the democratic war and
+views it and its victorious conclusion as "their" war and "their"
+victory.
+
+The historical responsibility for this tragic deviation from the correct
+class line lies with the socialist and centrist parties, which have
+acted and continue to act towards the war not as the right wing of the
+proletariat, but as real and conscious forces of the bourgeois left.
+
+**II. Fascism and Democracy**
+
+Fascism as a necessity of bourgeois society and organic expression of
+the defence of privilege within the framework of an authoritarian state
+at the height of the capitalist crisis, is, at this point, an episode
+that concerns gravediggers far more directly than politics or history.
+But it should be noted that fascism does not die as a result of a
+violent, head-on struggle brought on by the proletariat, meaning it is
+not swept away by a revolutionary wave; this means that there is a
+peaceful transfer of power from one political framework to another one,
+better suited to the new necessities arising from the war, and that the
+necessities of the authoritarian State, which we have known and
+experienced -- and which are still alive and consistent just as
+capitalism as a whole, from which these necessities originate, is alive
+and consistent -- will be at the basis of the democratic State, those
+same necessities with the hypocrisy and the deceit of freedoms added on,
+freedoms which will factually be reserved to those who hold power.
+
+It therefore goes without saying that the conditions of social conflict
+have not changed even slightly, and no matter the forces at the helm of
+the state, our party's stance is that they are defending the interests
+of capitalism with all means available, the same ones fascism used,
+against every attempt of the proletariat to get a hold of power.
+
+Against the democratic state, the tactics of the proletarian party
+remain unchanged: we believe neither in its elections, nor in its
+constituent assembly, nor in its freedom of press, speech, or
+association ; but the party will take advantage of them, as well as any
+concession the bourgeoisie is forced to make, for the sole purpose of
+getting stronger and being able to hit hard. As things stand, the war
+has brought fascism to its knees, but it will also not fail to bring
+about political ruin for the traditionally proletarian parties of the
+National Liberation Committee, who, tied to the triumphant forces of the
+war to which they owe their temporary political successes, are today
+forced to continue it. Our Party, just as it was alone in fighting the
+war of Nazi-fascist imperialism, will remain alone in fighting the war
+of democracies.
+
+**III. Our Party and Russia**
+
+Russia has ceased to be for our party the country of the first great
+revolutionary achievement of the world proletariat, and remains an open
+page for the critical study of revolutionary Marxism, which today is
+tasked with identifying and laying bare the historical causes, economic
+and political, that, in Russia, formed the basis of the defeat of
+proletarian power and became the decisive factor in the disintegration
+of the political forces of the Communist International. From the violent
+repression against the genuine revolutionaries of Kronstadt to the
+physical elimination of all opposition to Stalin's nationalist politics,
+it is evident in the workers' state the constant growth of this peculiar
+paradox: everyone is acting ostensibly to arm the revolution against any
+attempt to restore capitalism, and everyone, revolutionaries or not,
+effectively contributed to arming the militias of the most ruthless
+anti-proletarian reaction, which was destined to strangle the October
+Revolution and, along with it, its best fighters. For Marxists, the
+reasons for this are not to be sought in the heavens or in the
+wickedness of some men, but they lived inside of the proletarian state,
+fuelled by a policy of compromise that economic conditions carried over
+to the dominant ideology in the era of Lenin and Trotsky.
+
+In virtue of the Russian experience, the proletariat's struggle has now
+absorbed that revolutionary violence is historically necessary and vital
+only when it is carried out by class forces which veins flow with
+proletarian blood, and whose goal is not the resolution of generic,
+subjective, and situational interests, be they even tied to the life of
+a proletarian state, but instead pushed forward by fundamental and
+permanent class needs, to which the state is just an episode and a
+simple and temporary phenomenon. Otherwise, violence ceases to be the
+midwife of history and paves the way for the returns of reaction.
+
+The Party deems that from the repression of Kronstadt to the liquidation
+of the Communist Party, the violence of the degenerated workers' state
+was an expression of a guiding will and economic and political interests
+that no longer coincided with the struggle of the proletariat. So
+tomorrow it will be less difficult for the parties of the new
+International to define the terms, both theoretical and tactical, of a
+policy against compromise.
+
+In conclusion, we assert:
+
+The dictatorship of the proletariat must under no circumstances be
+reduced to the dictatorship of the party, even if it were the party of
+the proletariat, intelligentsia and leadership of the workers' state.
+
+The state and the ruling Party, as organs of such dictatorship, contain
+within themselves the germ of a tendency toward compromise with the old
+world, a tendency that gets substantiated and strengthened, as the
+Russian experience has taught us, in the temporary inability of the
+revolution in a given country to spread, binding itself with the
+revolutionary movement of other countries.
+
+In a phase, then, of stalling politics imposed by the gradual nature of
+revolutionary development, the interests of the revolution are
+guaranteed by the active presence of the proletariat -- above all of its
+most conscious forces -- in the fundamental organs of the dictatorship,
+with elected positions, with the right of removal from office, with the
+free exercise of the workers' union to defend its class interests
+against the state and all economic strata that are not yet socialist: in
+a word, with the broadest possible exercise of workers' democracy. If at
+this stage of class dictatorship the free existence of parties is an
+anachronism, then criticism and opposition must be allowed within the
+sphere of the dictatorship's party. The exercise of the broadest
+possible democracy in the relations between the proletariat and the
+party, between the proletariat and the workers' state, presupposes a
+very high degree of political maturity achieved by the proletariat and
+the existence of objectively sufficient conditions for such
+implementation in all economic and social spheres of the workers' state.
+It is understood that it's the duty of the party exercising the
+dictatorship to raise these backward strata to the level of
+revolutionary class interests through the means and methods permitted by
+workers' democracy itself, such as free discussion, free expression of
+opinion at meetings etc...
+
+The state -- a bourgeois relic that the proletariat cannot do without to
+eliminate the remnants of class society, but whose disintegration it
+must accelerate -- tends all the more to survive and grow stronger,
+rather than wither away, the more it isolates itself from the movement
+of the international proletariat, claiming to build socialism in its own
+sphere and posing itself as a workers' state in opposition to bourgeois
+states on the world stage.
+
+**IV. The New International**
+
+The scale and duration of the conflict, the depth and harshness of
+ideological clashes, the negative experience of the first proletarian
+state and its International, must have determined the favourable
+conditions for the formation and strengthening of communist
+organizations in individual countries, which are awaiting the moment to
+unite and lay the foundations of a new International.
+
+The latter will have to take into account above all their previous
+negative experiences, in order to effectively become the organ of the
+world communist revolution. Our Party, which in recent decades more than
+any other has felt the lack of an international directive organ that
+could actually be a guide and an incentive to the proletarian struggle,
+and has boldly exposed its shortcomings, errors, deviations, and
+ultimately betrayal, and which has missed no opportunity to restore
+contacts among the forces of the international left, will be able to
+take initiative at the opportune moment. Our Party is ideologically
+prepared for this task of revival and states already that the new
+International:
+
+a\) must avoid becoming an instrument of the workers' state and its
+politics, but, considering itself the highest assembly of workers
+throughout the world, must defend the interests of the revolution even
+towards the workers' state;
+
+b\) must avoid bureaucratization, making of the directive centre, as of
+the peripheral centres, a field for bureaucratic careerism;
+
+c\) must avoid class politics being thought and realised following
+formal and administrative criteria.
+
+The danger of opportunist accretions and bureaucratic authoritarianism
+can be neutralized in time and eliminated only through the active
+participation by the political organs of the proletariat of various
+countries in the political life of the International, through its
+vigilant control over the people and organs at the head of the leading
+and responsible centres.
+
+**V. Our Tactics**
+
+We have already stated that the party's tactics do not change with the
+apparent and merely formal changes in the external and political
+conditions of the State. Unless the course of the war is brutally
+interrupted or radically altered by the collapse of some front as a
+result of a successful workers' uprising, contrary to the anticipated
+democratic experience, under the tutelage of the victorious Allied
+forces, our party will put the proletarian struggle in terms of
+revolutionary tactics, which consists in promptly interpreting
+situations from the class standpoint, in adapting the watchwords of
+action accordingly, and in equipping in time the proletariat with the
+essential ideas that nourish its struggle and with the means necessary
+to consolidate victory. In the immediate post-war period, while under
+the leadership of the socialists and centrists the manoeuvre so dear to
+democratic reaction will be repeated: diverting the revolutionary thrust
+in order to run it aground on the shoals of partial and immediate
+demands and of compromise by taking advantage of the inevitable
+political, economic and moral disorientation that will descend upon all
+the organs of the State and upon the consciousness of the masses, as
+well as of the inability of the ruling class responsible for the war to
+organise the peace in the sense of resolving the enormous problems posed
+by the war, our party will adapt its tactics accordingly with the
+maturation of favorable objective conditions and will conduct the
+struggle within the channel of revolutionary tradition, so as to provide
+true leadership rather than trail behind events. It is therefore obvious
+that the tactical expedients of democracy will be cast onto the
+scrapheap of politics as soon as the party judges that the situation is
+moving towards a revolutionary outcome.
+
+Because our political line will not be influenced by idealistic
+temptations or theories of spontaneity, this will allow the party's will
+to fight to coincide with the will of the masses, so that they will
+express in a concentrated form the urgency of a practical necessity in
+the sense of a revolutionary assault for the conquest of power.
+
+But there will be no serious conquest of power, unless the party first
+gains influence over the masses of the proletariat. To this end the
+party defines its tasks as follows:
+
+a\) the masses cannot be won over when and how one wishes, if objective
+conditions do not stir them, the tactical acrobatics of parties that
+would like to influence them and make them spring into action at the
+touch of a magic wand are useless;
+
+b\) the fighting spirit of the masses, when ignited in struggle,
+indicates as if in a diagram the process of instability and crisis that
+pervades the productive apparatus of capitalism, its markets and the
+whole of its political organisation. At this moment, the party can
+insert itself into the struggle, and be one of its determining elements,
+drawing the masses into its orbit to unite their energies and direct
+them towards the achievement of specific objectives;
+
+c\) the success of such an intervention is possible to the extent that
+the party has been able to create permanent organisations for
+propaganda, recruitment and agitation within the masses; to the extent
+that it has been able to win trust, through constant adherence to the
+life and struggles of the proletariat and its class demands; finally, to
+the extent that it has demonstrated that it has not deluded the masses
+with untimely and insincere agitation, with empty gestures such as
+strikes for the sake of strikes, or strikes for purposes that are
+contrary to the spirit and interests of the class;
+
+d\) our party, which does not underestimating the influence of other
+parties with a working-class tradition and the importance of that
+influence upon the masses, advocates the "united front", the organic
+expression of proletarian unity outside and beyond the parties,
+indispensable for the struggle and victory, a natural and free arena for
+the confrontation of opposing political currents, within which our party
+will play its leading role as the guide of the majority of the
+proletariat, because it is its faithful interpreter, because it
+represents its fundamental interests and because, above all, it has
+proved itself to be its sole and reliable guide in the revolutionary
+struggle.
+
+**VI. The Union Question**
+
+At present, the union question does not exist, and the remnants of the
+old union organisations surviving in clandestinity have proved to serve
+more as instruments of political agitation connected with the war than
+as genuine organs of the workers' struggle.
+
+The revival of the union movement, that will follow the end of the war,
+will bear the imprint of its political vicissitudes and will see the
+traditional Social-Democratic domination of the unions greatly
+strengthened and its bureaucracy becoming still more authoritarian.
+Despite these prospects our party will raise as soon as circumstances
+permit the problem of the unified reorganisation of the workers'
+movement, it will reconstitute the network of its union fractions from
+the communist factory group (composed of communists and workers without
+a party) up to the national communist Union committee: and if it deems
+this necessary it will take the initiative in forming a "Front of the
+Union Left" to overthrow the leadership of the Confederation of Labour.
+
+Meanwhile, the party will concentrate its attention and activity on
+establishing systematic links with the factories with the aim not only
+of building an internal apparatus, but also creating a network capable
+of directing the movement of the broad masses.
+
+**VII. Work among the Peasantry**
+
+This war, like the previous one, and certainly on a far greater scale,
+must have deepened among the peasants their detachment from the world of
+age-old traditions, of economic and political subjection and it must
+have acted as a demolishing pickaxe on the one hand against the obsolete
+and narrow forms of agricultural cultivation and on the other against
+the domination of the parasitic cliques of agrarian slavery. The
+separation between the rural and urban populations has gone diminishing
+and many misunderstandings as well as more than one difference have
+disappeared; both have been brought closer together and almost united by
+the physical sufferings and the moral and political constraints
+violently imposed by a ruthless dictatorship and a ferocious war.
+
+If the peasant who thinks slowly, but with clear and profound logic, has
+come, after so many experiences, to perceive the bond of shared
+responsibility linking the owner of the land he cultivates with the
+political forces that wanted this war of extermination, then a great
+step will have been taken towards the revolution.
+
+Our countryside, which the war was supposed to transform by driving it,
+as it has done to some extent, towards higher levels of economic
+development, in the fifth year of the war finds itself alarmingly
+depleted of manpower and reserves as a result of the systematic plunder
+carried out by belligerents, both enemy and allied, caught between the
+fleeting allure of the black market and monetary depreciation, which
+nullifies its sacrifices and subjected to the oppressive burden of the
+State's monopolistic and predatory intervention. We do not doubt that
+these developments have fostered among the peasant masses aversion and
+hatred against an economic and political regime which experience has
+shown to be both irrational and criminal.
+
+The post-war period therefore holds rich revolutionary possibilities in
+this sphere as well, a sphere in which the industrial proletariat had
+until yesterday encountered stubborn and tenacious opposition to the
+common struggle for emancipation. Our party has always recognised the
+role that the peasantry, especially the poor peasantry, is destined to
+play in the Italian revolution, and from this very moment places the
+peasant question on the agenda, making its own the programme adopted at
+the Second Congress of the Italian Communist Party -- a programme that
+remains fully alive and relevant both as a tactical orientation in the
+phase preceding the conquest of power and as a concrete and constructive
+guide during the first difficult phase of the realisation of a socialist
+economy.
+
+From a practical standpoint, the party relies upon the reorganisation of
+the unions of agricultural labourers and of the leagues of sharecroppers
+and small tenant farmers; and, for the small proprietors upon the
+organisation of an association for the defence of their economic
+interests.
+
+*Central Committee of the Internationalist Communist Party*
+
+*September 1944*
+
+*Presented by the Central Committee in November of that year.*
+
+*From a brochure published by the Internationalist Communist Party,
+1945.*
