@@ -1,0 +1,9 @@
+version: 2
+updates:
+  # Content-only repo — the single workflow is the whole dependency
+  # surface. Keeps the third-party repository-dispatch pin moving.
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
