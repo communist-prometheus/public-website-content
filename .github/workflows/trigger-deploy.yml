@@ -4,11 +4,16 @@ on:
   push:
     branches: [master, develop]
 
+# The only thing this workflow does is fire a repository_dispatch with a
+# dedicated DEPLOY_TOKEN secret; the built-in GITHUB_TOKEN needs nothing.
+permissions:
+  contents: read
+
 jobs:
   trigger:
     runs-on: ubuntu-latest
     steps:
-      - uses: peter-evans/repository-dispatch@v3
+      - uses: peter-evans/repository-dispatch@ff45666b9427631e3450c54a1bcbee4d9ff4d7c0 # v3.0.0
         with:
           token: ${{ secrets.DEPLOY_TOKEN }}
           repository: communist-prometheus/public-website
