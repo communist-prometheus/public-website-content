@@ -1,7 +1,7 @@
 ---
 title: APPELLO AI LAVORATORI DELLA RUSSIA
 description: La storia della nostra organizzazione non è iniziata ieri. La maggior parte delle nostre pubblicazioni e dichiarazioni passate è oggi poco conosciuta. Pertanto, abbiamo deciso di iniziare a pubblicare nella nostra rivista alcuni materiali tratti dai nostri archivi. Uno di questi è la presente dichi…
-category: Appello
+category: appeal
 pubDate: 2026-04-30
 published: true
 lang: it
