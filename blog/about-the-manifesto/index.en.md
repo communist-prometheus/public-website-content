@@ -6,6 +6,7 @@ pubDate: 2026-04-30
 published: true
 lang: en
 publishDate: 2026-05-17
+archive: founding-documents
 ---
 
 **_Correspondence with a Comrade_**

@@ -7,6 +7,7 @@ pubDate: 2026-04-30
 published: true
 lang: ru
 newspaper: magazine-1-mai-2026
+archive: founding-documents
 ---
 
 # По поводу “Манифеста”
