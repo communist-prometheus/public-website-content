@@ -2,7 +2,7 @@
 title: L'ultima battaglia dei bolscevichi
 lang: it
 description: "Ci rivolgiamo a una delle pagine più tragiche, ma politicamente decisive, della storia del movimento operaio mondiale: la lotta eroica e coerente del Gruppo del Centralismo Democratico (i “decisti”). Mentre alla fine degli anni Venti la maggior parte degli oppositori di partito nutriva illusioni mortali sulla natura dello Stato sovietico, furono proprio i decisti (T. Sapronov, V. Smirnov e altri) i primi a trarre la rigorosa conclusione marxista: la controrivoluzione era compiuta, il PCUS(b) e l’apparato statale si erano trasformati in strumenti di sfruttamento capitalistico ostili al proletariato. Di conseguenza, non era necessaria una riforma interna al partito, bensì una nuova rivoluzione e la creazione di un nuovo partito, autenticamente operaio. Il valore particolare di questo materiale storico risiede nella spietata dissezione dell’ideologia di Lev Trockij e dei suoi sostenitori. Attraverso i documenti storici, dimostriamo come il rifiuto di Trockij di riconoscere la natura borghese del regime stalinista lo abbia condotto al funesto centrismo: sterili speranze in un “corso di sinistra” della burocrazia e la sostituzione dell’analisi di classe reale con ragionamenti astratti sulla “situazione internazionale”."
-category: Storia
+category: history
 published: true
 publishDate: 2026-05-24
 ---

@@ -2,7 +2,7 @@
 title: Rassegna internazionale, aprile 2026
 lang: it
 description: "Mentre le notizie parlano di una prossima stabilizzazione, il sistema sta attraversando una profonda crisi strutturale: i mercati sono saturi di debiti non garantiti, le nuove tecnologie privano alcuni vecchi settori dei profitti precedenti generandone di nuovi e altissimi per altri, e gli Stati, come prevedibile, vengono trascinati in guerre per le risorse. Non basta diagnosticare il capitalismo contemporaneo; è necessario comprendere perché il movimento operaio sia ora così debole e frammentato e, soprattutto, da dove, oggi stesso, i comunisti devono iniziare il lavoro pratico per organizzare le persone in vista dei futuri sconvolgimenti sociali, senza limitarsi all’attesa passiva di rivolte spontanee."
-category: Politica internazionale
+category: international
 published: true
 publishDate: 2026-05-08
 ---

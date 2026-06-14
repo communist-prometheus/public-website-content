@@ -1,7 +1,7 @@
 ---
 title: "Dalla redazione: una nuova fase"
 description: L’uscita del primo numero della rivista Prometeo Comunista è il risultato logico di quasi trent’anni di lavoro del nostro gruppo. Nelle condizioni di estrema debolezza del attuale movimento operaio e della frammentazion…
-category: Editoriale
+category: editorial
 pubDate: 2026-04-30
 published: true
 lang: it

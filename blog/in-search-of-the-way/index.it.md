@@ -1,7 +1,7 @@
 ---
 title: In cerca della via
 description: Questo testo rappresenta un saggio storico-politico che descrive il lungo cammino di formazione e di evoluzione ideologica del gruppo, dal suo sorgere alla fine degli anni Novanta fino al passaggio a nuove forme di lavoro ai giorni nostri. Il materiale racconta i primi passi dell’organizzazione sul…
-category: Storia
+category: history
 pubDate: 2026-04-30
 published: true
 lang: it

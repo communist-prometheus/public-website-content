@@ -1,7 +1,7 @@
 ---
 title: L’Iran come nodo nevralgico della crisi dell’imperialismo
 description: Il presente testo rappresenta un’analisi marxista del ruolo dell’Iran nell’attuale crisi imperialista e delle dinamiche di classe interne al paese. Se gli ideologi liberali discutono della lotta tra “riformatori” e “conservatori”, noi dimostriamo che tutte le frazioni della borghesia iraniana sono…
-category: Politica internazionale
+category: international
 pubDate: 2026-04-30
 published: true
 lang: it
