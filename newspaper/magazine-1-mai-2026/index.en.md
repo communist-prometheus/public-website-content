@@ -1,5 +1,5 @@
 ---
-title: The magazine «Communist Prometheus» №1 — May 2026
+title: The magazine «Communist Prometheus» №1 — June 2026
 lang: en
 published: true
 publishDate: 2026-06-12
