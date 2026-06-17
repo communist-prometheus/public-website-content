@@ -6,6 +6,7 @@ blog: Блог
 positions: Позиции
 manifest: Манифест
 newspaper: Журнал
+archive: Архив
 links: Ссылки
 menu: Меню
 copyright: © Все права защищены

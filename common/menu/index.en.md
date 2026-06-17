@@ -6,6 +6,7 @@ blog: Blog
 positions: Positions
 manifest: Manifesto
 newspaper: Magazine
+archive: Archive
 links: Links
 menu: Menu
 copyright: © All rights reserved
