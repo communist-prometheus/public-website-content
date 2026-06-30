@@ -411,38 +411,8 @@
       }
     },
     {
-      "url": "https://shoraha.net/",
-      "name": "Shoraha",
-      "category": "organizations",
-      "inRing": true,
-      "descriptions": {
-        "en": "",
-        "ru": "",
-        "it": "",
-        "es": "",
-        "uk": "",
-        "pl": "",
-        "bl": ""
-      }
-    },
-    {
       "url": "https://en.internationalistvoice.org/",
       "name": "Internationalist Voice",
-      "category": "organizations",
-      "inRing": true,
-      "descriptions": {
-        "en": "",
-        "ru": "",
-        "it": "",
-        "es": "",
-        "uk": "",
-        "pl": "",
-        "bl": ""
-      }
-    },
-    {
-      "url": "https://wpiran.org/english/",
-      "name": "Worker-communist Party of Iran",
       "category": "organizations",
       "inRing": true,
       "descriptions": {
