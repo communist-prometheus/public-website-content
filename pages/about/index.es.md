@@ -1,6 +1,6 @@
 ---
 title: Sobre nosotros
-description: Quiénes somos y por qué luchamos.
+description: “El Prometeo Comunista” es un grupo de marxistas revolucionarios que conciben su actividad como parte del movimiento mundial de la clase obrera para la superación del capitalismo. Nos basamos en el núcleo programático del “Manifiesto del Partido Comunista” y partimos de la premisa de que el comunismo no es una utopía ni un ideal abstracto, sino una necesidad histórica que surge del propio desarrollo de la sociedad moderna.
 lang: es
 ---
 
