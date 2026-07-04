@@ -1,0 +1,52 @@
+name: Auto-merge content develop → master
+
+# Editors push content edits from admin.comprom.org straight into
+# `develop` — master is protected by the `guard` required status check
+# and rejects direct pushes as GH006. isomorphic-git surfaces this as
+# "Unexpected error", which reads like a client bug to editors.
+#
+# This workflow closes the loop: every push into develop fast-forwards
+# master using a CONTENT_MERGE_TOKEN admin PAT that bypasses branch
+# protection (org owner). `--ff-only` is the safety net — if develop
+# has forked from master (e.g. a broken manual merge landed on master
+# directly), the merge fails loudly instead of writing history a human
+# didn't approve.
+
+on:
+  push:
+    branches: [develop]
+
+concurrency:
+  # Serialize merges — two overlapping pushes would race for
+  # refs/heads/master and one would lose to a non-fast-forward.
+  group: content-auto-merge-master
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
+        with:
+          fetch-depth: 0
+          # PAT of an org owner (undeadliner) with `repo` scope.
+          # GITHUB_TOKEN can't bypass branch protection here — the
+          # protection covers all writers except owners with
+          # enforce_admins: false, so a token attached to the workflow
+          # actor isn't enough.
+          token: ${{ secrets.CONTENT_MERGE_TOKEN }}
+          ref: master
+
+      - name: Configure git author
+        run: |
+          git config user.name "prometheus-content-bot"
+          git config user.email "prometheus-content-bot@users.noreply.github.com"
+
+      - name: Fast-forward master to develop
+        run: |
+          git fetch origin develop
+          git merge --ff-only origin/develop
+          git push origin master
