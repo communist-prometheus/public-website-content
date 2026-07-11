@@ -5,7 +5,7 @@ category: programme
 pubDate: 2026-04-30
 published: true
 lang: it
-newspaper: magazine-1-mai-2026
+magazine: magazine-1-mai-2026
 ---
 
 Nel 1845, il ventiquattrenne Friedrich Engels pubblicò il libro "La situazione della classe operaia in Inghilterra", un libro che Lenin definì _«un terribile atto d’accusa contro il capitalismo e la borghesia»[^1]_, annoverandolo tra le migliori opere della letteratura socialista mondiale. La scelta dell’oggetto analizzato non fu casuale: la Manchester del XIX secolo rappresentava il primo "laboratorio puro" del capitalismo industriale. Engels documentò con precisione protocollare come un sistema dotato di una capacità di innovazione tecnologica senza precedenti generasse, simultaneamente, miseria assoluta, epidemie e degradazione della vita umana. Era la realtà della soffocante e fuligginosa Coketown di "Tempi difficili" di Charles Dickens e delle viscere infernali di "Germinal" di Émile Zola.

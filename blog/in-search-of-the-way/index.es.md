@@ -5,7 +5,7 @@ category: history
 pubDate: 2026-04-30
 published: true
 lang: es
-newspaper: magazine-1-mai-2026
+magazine: magazine-1-mai-2026
 ---
 
 Rusia a finales de la década de 1990: se acerca a su fin una década de

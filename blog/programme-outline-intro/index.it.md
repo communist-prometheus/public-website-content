@@ -5,7 +5,7 @@ category: programme
 pubDate: 2026-04-30
 published: false
 lang: it
-newspaper: magazine-1-mai-2026
+magazine: magazine-1-mai-2026
 ---
 
 # Introduzione allo “Schema di programma” del Partito comunista internazionalista

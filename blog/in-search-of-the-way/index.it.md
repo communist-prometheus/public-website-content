@@ -5,7 +5,7 @@ category: history
 pubDate: 2026-04-30
 published: true
 lang: it
-newspaper: magazine-1-mai-2026
+magazine: magazine-1-mai-2026
 ---
 
 # In cerca della via

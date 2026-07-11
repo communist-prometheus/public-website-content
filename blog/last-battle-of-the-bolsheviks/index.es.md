@@ -5,7 +5,7 @@ description: "Abordamos una de las páginas más trágicas, pero políticamente 
 category: history
 published: true
 publishDate: 2026-05-24
-newspaper: magazine-1-mai-2026
+magazine: magazine-1-mai-2026
 ---
 
 **_Páginas de la historia del internacionalismo proletario_**
