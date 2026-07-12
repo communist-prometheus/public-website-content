@@ -5,7 +5,7 @@ about: Chi siamo
 blog: Blog
 positions: Posizioni
 manifest: Manifesto
-newspaper: Rivista
+magazine: Rivista
 archive: Archivio
 links: Link
 menu: Menu

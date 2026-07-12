@@ -5,7 +5,7 @@ about: About
 blog: Blog
 positions: Positions
 manifest: Manifesto
-newspaper: Magazine
+magazine: Magazine
 archive: Archive
 links: Links
 menu: Menu

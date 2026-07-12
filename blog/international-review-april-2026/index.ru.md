@@ -5,7 +5,7 @@ description: "Пока в новостях говорят о скорой ста
 category: international
 published: true
 publishDate: 2026-05-08
-newspaper: magazine-1-mai-2026
+magazine: magazine-1-mai-2026
 ---
 
 ## Contents

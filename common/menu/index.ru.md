@@ -5,7 +5,7 @@ about: О нас
 blog: Блог
 positions: Позиции
 manifest: Манифест
-newspaper: Журнал
+magazine: Журнал
 archive: Архив
 links: Ссылки
 menu: Меню
