@@ -3,6 +3,7 @@ title: "From the Editors: The Tool of Labour and the Cybernetic Trowel"
 lang: en
 description: The editorial board openly acknowledges its conscious use of generative AI to create magazine illustrations, drawing on a Marxist understanding of technology. Devoid of purpose and genuine imagination, the machine serves merely as an obedient “cybernetic trowel” – a high-tech extension of the human hand and mind. By strictly directing the algorithms, we use them not to imitate machine “creativity”, but to revive the monumental visual language of the revolutionary proletarian avant-garde of 1917–1921. Although modern neural networks have been developed by corporations for profit through the predatory monopolisation of humanity’s “general intellect”, we turn this contradiction against capital itself. By refusing to sell the magazine, we create no surplus value and produce only use-value – communist propaganda. In this way, we carry out a tactical “reverse expropriation”, compelling the infrastructure of the class enemy to serve the interests of the proletariat and transforming capitalist technologies into intellectual weapons of class struggle.
 category: editorial
+topic: editorial
 published: true
 publishDate: 2026-05-06
 ---
