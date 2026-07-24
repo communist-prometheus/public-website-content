@@ -5,6 +5,7 @@ description: |-
   La redazione dichiara apertamente l'uso consapevole dell'IA generativa per la creazione delle illustrazioni della rivista, basandosi sulla concezione marxista della tecnica. La macchina è priva di teleologia e di autentica immaginazione: essa funge soltanto da docile "cazzuola cibernetica", un prolungamento ad alta tecnologia della mano e della mente umana. Guidando con rigore gli algoritmi, non li utilizziamo per simulare una "creatività" della macchina, ma per far rivivere il monumentale linguaggio visivo dell'avanguardia proletaria rivoluzionaria del 1917–1921.
   Sebbene le odierne reti neurali siano state create dalle multinazionali per generare profitto attraverso la monopolizzazione predatoria del "general intellect" dell'umanità, noi volgiamo questa contraddizione contro il capitale stesso. Rifiutandoci di vendere la rivista, non creiamo plusvalore, bensì produciamo esclusivamente valore d'uso: propaganda comunista. In tal modo, mettiamo in atto una "espropriazione inversa" tattica, costringendo l'infrastruttura del nemico di classe a operare negli interessi del proletariato e trasformando le tecnologie capitalistiche in un'arma intellettuale per la lotta di classe.
 category: editorial
+topic: editorial
 published: true
 publishDate: 2026-05-06
 ---
