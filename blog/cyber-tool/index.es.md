@@ -12,7 +12,6 @@ description: |-
   lenguaje visual de la vanguardia proletaria revolucionaria de
   1917--1921.
 category: editorial
-topic: editorial
 published: true
 publishDate: 2026-05-06
 ---
