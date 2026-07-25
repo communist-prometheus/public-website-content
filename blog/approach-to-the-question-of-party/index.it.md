@@ -2,6 +2,7 @@
 title: L'approccio alla questione partito
 lang: it
 category: programme
+topic: translation
 description: "Uno dei motivi per cui questo articolo venne scritto, forse il principale, è stato quello di indicare quale sarebbe stato il ruolo di un partito rivoluzionario, qualora ci fossa stato in Inghilterra, durante lo sciopero dei minatori che, ricordiamolo, è stato l’evento di lotta di classe più importante negli anni 80 e 90 prima del crollo del falso socialismo in URSS. Infatti le indicazioni politiche contenute erano rivolte alla denuncia del solito riformismo, alla lotta al capitale nazionale e alla borghesia domestica. Si sottolineava, come sempre, la necessità che i minatori si mettessero in contatto con il resto della classe inglese, la necessità della costituzione di comitati operai ecc...
 
 
