@@ -20,7 +20,7 @@ The first step was the publication of the newspaper “Komsa”, launched in Jun
 
 Our emergence was an objective response to the social collapse of the 1990s. The initial impulse was largely rooted in a spontaneous rejection of the “new” bourgeoisie – drawn from the Party and Komsomol nomenklatura. However, this rejection quickly developed into the formulation of a clear political foundation: the necessity of the complete abolition of private property and commodity-money relations, as well as the recognition of the dictatorship of the proletariat as an inevitable transitional stage towards communism.
 
-## 2014: THE TEST OF INTERNATIONALISM.
+## 2014: THE TEST OF INTERNATIONALISM
 
 The principles of proletarian internationalism were inherent to our organisation from the very beginning. Therefore, when the inter-imperialist conflict intensified in 2014 and Ukraine became one of its military fronts, we had no need to revise our positions.
 
