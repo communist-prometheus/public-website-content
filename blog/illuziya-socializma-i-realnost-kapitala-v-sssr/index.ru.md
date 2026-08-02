@@ -1,6 +1,7 @@
 ---
 title: Иллюзия социализма и реальность капитала в СССР
 lang: ru
+magazine: magazine-2-avgust-2026
 category: programme
 published: true
 publishDate: 2026-06-28
