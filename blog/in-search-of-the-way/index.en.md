@@ -18,7 +18,7 @@ magazine: magazine-1-mai-2026
 
 Russia in the late 90s: the decade of active, though spontaneous and fragmented, economic struggle of the proletariat was drawing to a close, its apogee being the “rail war” of 1998.[^1]
 
-In these conditions, in the summer of 1997, a small Marxist group emerged in Kirov, which, first of all, drastically distanced itself from “official” and “semi-official” “communism” – the various pseudo-communist successors of the Stalinist counter-revolution that, in the first half of the twentieth century, destroyed the Marxist school in Russia and had already thoroughly discredited themselves by that time, although some of them, like some kind of zombie companies, persist to this  day.
+In these conditions, in the summer of 1997, a small Marxist group emerged in Kirov, which, first of all, drastically distanced itself from “official” and “semi-official” “communism” – the various pseudo-communist successors of the Stalinist counter-revolution that, in the first half of the twentieth century, destroyed the Marxist school in Russia and had already thoroughly discredited themselves by that time, although some of them, like some kind of zombie companies, persist to this day.
 
 ## “Scorched Earth” and Defensive Maximalism
 
