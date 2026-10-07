@@ -82,12 +82,14 @@
     "name": {
       "ru": "Комментарий",
       "en": "Comment",
-      "it": "Commento"
+      "it": "Commento",
+      "es": "Comentario"
     },
     "subtitle": {
       "ru": "Комментарий",
       "en": "Comment",
-      "it": "Commento"
+      "it": "Commento",
+      "es": "Comentario"
     },
     "description": {}
   }
