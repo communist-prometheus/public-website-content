@@ -81,11 +81,13 @@
     "color": "#241f31",
     "name": {
       "ru": "Комментарий",
-      "en": "Comment"
+      "en": "Comment",
+      "it": "Commento"
     },
     "subtitle": {
       "ru": "Комментарий",
-      "en": "Comment"
+      "en": "Comment",
+      "it": "Commento"
     },
     "description": {}
   }
