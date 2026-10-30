@@ -1,0 +1,41 @@
+name: Backup content (mirror)
+
+# Disaster-recovery backup of the content repo. Mirrors every branch and tag
+# (with full history + authorship) into the private communist-prometheus/
+# content-backup repo. Runs on every push to this repo's tracked branches and,
+# as a safety net, once a day — so prod content is copied the moment it changes
+# and the whole repo is re-verified daily regardless of which branch moved.
+on:
+  push:
+  schedule:
+    - cron: '0 3 * * *' # 03:00 UTC daily
+  workflow_dispatch:
+
+# Never let two mirrors race; queue them so pushes are applied in order.
+concurrency:
+  group: content-backup-mirror
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mirror all branches and tags to content-backup
+        env:
+          SRC_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DST_TOKEN: ${{ secrets.CONTENT_MERGE_TOKEN }}
+        run: |
+          set -euo pipefail
+          # A bare mirror clone of this repo (all refs, full history).
+          git clone --mirror \
+            "https://x-access-token:${SRC_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" repo.git
+          cd repo.git
+          # Push branches + tags only (never GitHub's refs/pull/*, which the API
+          # rejects); --prune so refs deleted upstream are removed in the backup.
+          git push --prune \
+            "https://x-access-token:${DST_TOKEN}@github.com/communist-prometheus/content-backup.git" \
+            '+refs/heads/*:refs/heads/*' '+refs/tags/*:refs/tags/*'
+          echo "Mirrored $(git for-each-ref --format='%(refname:short)' refs/heads | wc -l) branches."
